@@ -1,0 +1,16 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Roberto Cipollone
+  photo: rock.jpg
+  info: Master student
+  email: cipollone.rt@gmail.com
+  number_educ: 0
+  education1:
