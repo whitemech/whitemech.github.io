@@ -1,5 +1,5 @@
 ---
-title: "WhiteMech Lab - AOA"
+title: "WhiteMech - AOA"
 layout: textlay
 excerpt: "AOA"
 sitemap: false

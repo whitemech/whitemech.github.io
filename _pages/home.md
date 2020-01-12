@@ -1,7 +1,7 @@
 ---
 title: "WhiteMech - Home"
 layout: homelay
-excerpt: "WhiteMech Lab at Sapienza University."
+excerpt: "WhiteMech at Sapienza University."
 sitemap: false
 permalink: /
 ---
