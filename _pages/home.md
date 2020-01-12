@@ -1,7 +1,7 @@
 ---
 title: "WhiteMech - Home"
 layout: homelay
-excerpt: "WhiteMech at Sapienza University."
+excerpt: "WhiteMech Lab at Sapienza University."
 sitemap: false
 permalink: /
 ---
@@ -53,7 +53,7 @@ WhiteMech aims at developing the science and the tools for mechanisms that are a
   <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
-  </a> -->
+  </a> 
 </div>
 
 **Context.** We are witnessing an increasing availability of mechanisms that offer form of programmability. These mechanisms are currently being revolutionized by advancements in sensing (vision, language understanding) and actuation components (autonomous mobile manipulators, automated storage and retrieval systems). However, such mechanisms are held back by the fact that their logic is still based on hard-wired rules encoded in hand-crafted programs.
