@@ -6,7 +6,12 @@ This repository contains the code for the WhiteMech's website.
 
 Follow this guide to set up your [Ruby development environment](https://cloud.google.com/ruby/docs/setup#linux-instructions).
 
-In particular, install `bundle`:
+Install Ruby version `2.6.0`:
+```
+rbenv install 2.6.0
+```
+
+Install `bundler`:
 
 ```
 gem install bundler
@@ -23,9 +28,13 @@ bundle install
 
 To build the Jekyll website:
 
-    bundle exec jekyll build
+```
+bundle exec jekyll build
+```
 
 To serve:
 
-    bundle exec jekyll serve
+```
+bundle exec jekyll serve
+```
 
