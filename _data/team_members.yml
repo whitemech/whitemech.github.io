@@ -95,7 +95,7 @@
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.diag.uniroma1.it/degiacomo/papers/ERC-AG-WhiteMech-Hiring.html">openings</a> for more info
-  email: degiacomo@diag.uniroma1.it
+  email: degiacomo@diag.uniroma1.it  # TODO: this should be the WhiteMech email address for communication with the outside
   number_educ: 0
   education1:
   education2:
