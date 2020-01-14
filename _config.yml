@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   WhiteMech: White-box Self Programming Mechanisms
 baseurl: ""
 # url: "www.whitemech.diag.uniroma1.it"
-url: "whitemech.github.io"
+url: ""
 
 include:
   - .htaccess
