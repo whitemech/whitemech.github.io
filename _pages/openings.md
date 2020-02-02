@@ -24,15 +24,15 @@ Candidates must have strong mathematical and computational skills. Specific topi
 - Service Composition and Business Process Management
 - Interest in applications in Smart Spaces (IoT) and Smart Manufacturing
 
-All the research activities will be carried out at the University of 
+All the research activities will be carried out at the University of
 Rome "La Sapienza" (the largest university in Rome). Salaries vary 
-depending on experience and are commensurate to international 
-standards. Moreover generous funds for traveling and visiting scholars 
+depending on experience and are commensurate to international
+standards. Moreover generous funds for traveling and visiting scholars
 are available for the entire project team.
 
-Prospective candidates are invited to make an expression of interest 
-by sending an e-mail including a CV and the name of two 
-references to [degiacomo@diag.uniroma1.it](mailto:degiacomo@diag.uniroma1.it)
+Prospective candidates are invited to make an expression of interest
+by sending an e-mail including a CV and the name of two
+references to [whitemech@diag.uniroma1.it](mailto:whitemech@diag.uniroma1.it)
 
 <!-- ### Current open positions
 

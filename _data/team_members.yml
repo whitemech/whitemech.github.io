@@ -2,35 +2,33 @@
   photo: giuseppe.jpg
   info: Full professor
   email: degiacomo@diag.uniroma1.it
-  number_educ: 4
+  number_educ: 3
   education1: I am invited speaker at IJCAI 2019
   education2: I am the Program Chair of ECAI 2020
   education3: I am the PI of the ERC Advanced Grant WhiteMech 2019-2024
-  education4: I support CLAIRE
-  education5: 
 
 - name: Fabio Patrizi
   photo: fabio.jpg
   info: Associate Professor
   email: patrizi@diag.uniroma1.it
   number_educ: 0
-  education1: 
-  education2: 
-  education3: 
+  education1:
+  education2:
+  education3:
 
 - name: Giuseppe Perelli
   photo: perelli.jpg
   info: Research Associate
   email: perelli@diag.uniroma1.it
   number_educ: 0
-  education1: 
+  education1:
 
 - name: Antonio Di Stasio
   photo: distasio.png
   info: Postdoctoral Researcher
   email: distasio@diag.uniroma1.it
   number_educ: 0
-  education1: 
+  education1:
   education2:
   education3:
   education4:
@@ -40,8 +38,8 @@
   info: Postdoctoral Researcher
   email: ronca@diag.uniroma1.it
   number_educ: 0
-  education1: 
-  education2: 
+  education1:
+  education2:
   education3:
 
 - name: Francesco Chiariello
@@ -49,7 +47,7 @@
   info: PhD Student, started November 2019
   email: chiariello@diag.uniroma1.it
   number_educ: 0
-  education1: 
+  education1:
   education2:
   education3:
   education4:
@@ -59,8 +57,8 @@
   info: PhD Student, started November 2018
   email: favorito@diag.uniroma1.it
   number_educ: 0
-  education1: 
-  education2: 
+  education1:
+  education2:
   education3:
   education4:
 
@@ -69,7 +67,7 @@
   info: PhD Student, started January 2019
   email: fuggitti@diag.uniroma1.it
   number_educ: 0
-  education1: 
+  education1:
   education2:
   education3:
   education4:
@@ -79,23 +77,23 @@
   info: PhD Student, started November 2018
   email: namici@diag.uniroma1.it
   number_educ: 0
-  education1: 
-  education2: 
+  education1:
+  education2:
 
 - name: Elena Umili
   photo: umili.jpg
   info: PhD Student, started November 2019
   email: umili@diag.uniroma1.it
   number_educ: 0
-  education1: 
-  education2: 
+  education1:
+  education2:
   education3:
   education4:
 
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.diag.uniroma1.it/degiacomo/papers/ERC-AG-WhiteMech-Hiring.html">openings</a> for more info
-  email: degiacomo@diag.uniroma1.it  # TODO: this should be the WhiteMech email address for communication with the outside
+  email: whitemech@diag.uniroma1.it  # TODO: this should be the WhiteMech email address for communication with the outside
   number_educ: 0
   education1:
   education2:
