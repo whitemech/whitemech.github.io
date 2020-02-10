@@ -9,13 +9,13 @@ permalink: /publications/
 
 # Publications
 
-**WARNING**: the website is under construction. The information 
+**WARNING**: the website is under construction. The information
 might be inaccurate or wrong.
 
-## Highlights
+<!-- ## Highlights
 
-(For a full list see [below](#full-list) or go to 
-[Google Scholar](https://scholar.google.it/citations?user=Sfo4K0oAAAAJ&hl=en), 
+(For a full list see [below](#full-list) or go to
+[Google Scholar](https://scholar.google.it/citations?user=Sfo4K0oAAAAJ&hl=en),
 [ResearcherID](https://publons.com/researcher/2666496/giuseppe-de-giacomo/))
 
 {% assign number_printed = 0 %}
@@ -54,8 +54,9 @@ might be inaccurate or wrong.
 </div>
 {% endif %}
 
-<p> &nbsp; </p>
+<p> &nbsp; </p> -->
 
+<script src="https://bibbase.org/show?bib=https://whitemech.github.io/whitemech-publications.bib&jsonp=1"></script>
 
 ## Full List
 
