@@ -131,7 +131,7 @@ permalink: /team/
 {% endif %}
 
 
-## Alumni
+<!-- ## Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -181,14 +181,14 @@ permalink: /team/
 {% endfor %}
 </div>
 
-<!-- <div class="col-sm-4 clearfix">
+<div class="col-sm-4 clearfix">
 <h4>Bachelor Students</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
-</div> -->
+</div> 
 
-</div>
+</div> -->
 
 
 ## Administrative Support
