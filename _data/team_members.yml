@@ -1,11 +1,10 @@
 - name: Giuseppe De Giacomo
   photo: giuseppe.jpg
-  info: Full professor
+  info: Full professor, WhiteMech's PI
   email: degiacomo@diag.uniroma1.it
-  number_educ: 3
-  education1: I am invited speaker at IJCAI 2019
-  education2: I am the Program Chair of ECAI 2020
-  education3: I am the PI of the ERC Advanced Grant WhiteMech 2019-2024
+  number_educ: 2
+  education1: Invited speaker at IJCAI 2019
+  education2: Program Chair of ECAI 2020
 
 - name: Fabio Patrizi
   photo: fabio.jpg
