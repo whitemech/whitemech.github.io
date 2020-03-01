@@ -188,7 +188,28 @@ permalink: /team/
 </div>
 
 </div>
+-->
 
 
-<!-- ## Administrative Support
-<a href="mailto:comito@di.uniroma1.it">Emanuela Comito</a> is helping us (and other groups) with administration. -->
+## Administration
+{% for member in site.data.admin_members %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/adminpic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+
+  </ul>
+</div>
+{% endfor %}

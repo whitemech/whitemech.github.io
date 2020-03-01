@@ -89,16 +89,6 @@
   education3:
   education4:
 
-- name: Emanuela Comito
-  photo: comito.jpg
-  info: Administrative Assistant
-  email: comito@di.uniroma1.it
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
-
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.diag.uniroma1.it/degiacomo/papers/ERC-AG-WhiteMech-Hiring.html">openings</a> for more info
