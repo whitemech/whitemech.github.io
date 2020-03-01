@@ -1,6 +1,6 @@
 ---
 title: "WhiteMech - Publications"
-layout: gridlay
+layout: publay
 excerpt: "WhiteMech -- Publications."
 sitemap: false
 permalink: /publications/
@@ -8,9 +8,6 @@ permalink: /publications/
 
 
 # Publications
-
-**WARNING**: the website is under construction. The information
-might be inaccurate or wrong.
 
 <!-- ## Highlights
 
@@ -58,11 +55,11 @@ might be inaccurate or wrong.
 
 <script src="https://bibbase.org/show?bib=https://whitemech.github.io/whitemech-publications.bib&jsonp=1"></script>
 
-## Full List
+<!-- ## Full List
 
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
 
-{% endfor %}
+{% endfor %} -->

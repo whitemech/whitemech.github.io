@@ -1,7 +1,7 @@
 ---
-title: "WhiteMech - Team"
+title: "WhiteMech - People"
 layout: gridlay
-excerpt: "WhiteMech: Team members"
+excerpt: "WhiteMech: Team Members"
 sitemap: false
 permalink: /team/
 ---
@@ -77,7 +77,7 @@ permalink: /team/
 
 
 
-## Master Students
+<!--## Master Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -130,8 +130,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-
-<!-- ## Alumni
+## Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -186,10 +185,31 @@ permalink: /team/
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
-</div> 
+</div>
 
-</div> -->
+</div>
+-->
 
 
-## Administrative Support
-<a href="mailto:comito@di.uniroma1.it">Emanuela Comito</a> is helping us (and other groups) with administration.
+## Administration
+{% for member in site.data.admin_members %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/adminpic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+
+  </ul>
+</div>
+{% endfor %}

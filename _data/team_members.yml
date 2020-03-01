@@ -15,12 +15,15 @@
   education2:
   education3:
 
-- name: Giuseppe Perelli
-  photo: perelli.jpg
-  info: Research Associate
-  email: perelli@diag.uniroma1.it
+- name: Francesco Chiariello
+  photo: chiariello.jpg
+  info: PhD Student, 1st year
+  email: chiariello@diag.uniroma1.it
   number_educ: 0
   education1:
+  education2:
+  education3:
+  education4:
 
 - name: Antonio Di Stasio
   photo: distasio.png
@@ -32,28 +35,9 @@
   education3:
   education4:
 
-- name: Alessandro Ronca
-  photo: ronca.jpg
-  info: Postdoctoral Researcher
-  email: ronca@diag.uniroma1.it
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-
-- name: Francesco Chiariello
-  photo: chiariello.jpg
-  info: PhD Student, started November 2019
-  email: chiariello@diag.uniroma1.it
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
-
 - name: Marco Favorito
   photo: favorito.jpg
-  info: PhD Student, started November 2018
+  info: PhD Student, 2nd year
   email: favorito@diag.uniroma1.it
   number_educ: 0
   education1:
@@ -63,7 +47,7 @@
 
 - name: Francesco Fuggitti
   photo: fuggitti.jpg
-  info: PhD Student, started January 2019
+  info: PhD Student, 2nd year
   email: fuggitti@diag.uniroma1.it
   number_educ: 0
   education1:
@@ -73,15 +57,31 @@
 
 - name: Manuel Namici
   photo: namici.jpg
-  info: PhD Student, started November 2018
+  info: PhD Student, 2nd year
   email: namici@diag.uniroma1.it
   number_educ: 0
   education1:
   education2:
 
+- name: Giuseppe Perelli
+  photo: perelli.jpg
+  info: Research Associate
+  email: perelli@diag.uniroma1.it
+  number_educ: 0
+  education1:
+
+- name: Alessandro Ronca
+  photo: ronca.jpg
+  info: Postdoctoral Researcher
+  email: ronca@diag.uniroma1.it
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+
 - name: Elena Umili
   photo: umili.jpg
-  info: PhD Student, started November 2019
+  info: PhD Student, 1st year
   email: umili@diag.uniroma1.it
   number_educ: 0
   education1:
@@ -92,7 +92,7 @@
 - name: "This could be you !"
   photo: rock.jpg
   info: See <a href="http://www.diag.uniroma1.it/degiacomo/papers/ERC-AG-WhiteMech-Hiring.html">openings</a> for more info
-  email: whitemech@diag.uniroma1.it  # TODO: this should be the WhiteMech email address for communication with the outside
+  email: whitemech@diag.uniroma1.it
   number_educ: 0
   education1:
   education2:
