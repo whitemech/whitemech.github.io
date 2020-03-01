@@ -53,7 +53,7 @@ permalink: /publications/
 
 <p> &nbsp; </p> -->
 
-<script src="https://bibbase.org/show?bib=https://whitemech.github.io/whitemech-publications.bib&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/whitemech/whitemech.github.io/master/whitemech-publications.bib&jsonp=1"></script>
 
 <!-- ## Full List
 
