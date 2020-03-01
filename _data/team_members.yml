@@ -15,36 +15,20 @@
   education2:
   education3:
 
-- name: Giuseppe Perelli
-  photo: perelli.jpg
-  info: Research Associate
-  email: perelli@diag.uniroma1.it
-  number_educ: 0
-  education1:
-
-- name: Antonio Di Stasio
-  photo: distasio.png
-  info: Postdoctoral Researcher
-  email: distasio@diag.uniroma1.it
+- name: Francesco Chiariello
+  photo: chiariello.jpg
+  info: PhD Student, 1st year
+  email: chiariello@diag.uniroma1.it
   number_educ: 0
   education1:
   education2:
   education3:
   education4:
 
-- name: Alessandro Ronca
-  photo: ronca.jpg
+- name: Antonio Di Stasio
+  photo: distasio.png
   info: Postdoctoral Researcher
-  email: ronca@diag.uniroma1.it
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-
-- name: Francesco Chiariello
-  photo: chiariello.jpg
-  info: PhD Student, 1st year
-  email: chiariello@diag.uniroma1.it
+  email: distasio@diag.uniroma1.it
   number_educ: 0
   education1:
   education2:
@@ -78,6 +62,22 @@
   number_educ: 0
   education1:
   education2:
+
+- name: Giuseppe Perelli
+  photo: perelli.jpg
+  info: Research Associate
+  email: perelli@diag.uniroma1.it
+  number_educ: 0
+  education1:
+
+- name: Alessandro Ronca
+  photo: ronca.jpg
+  info: Postdoctoral Researcher
+  email: ronca@diag.uniroma1.it
+  number_educ: 0
+  education1:
+  education2:
+  education3:
 
 - name: Elena Umili
   photo: umili.jpg
