@@ -9,9 +9,6 @@ permalink: /publications/
 
 # Publications
 
-<!-- **WARNING**: the website is under construction. The information
-might be inaccurate or wrong. -->
-
 <!-- ## Highlights
 
 (For a full list see [below](#full-list) or go to
