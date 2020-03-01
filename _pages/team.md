@@ -1,7 +1,7 @@
 ---
-title: "WhiteMech - Team"
+title: "WhiteMech - People"
 layout: gridlay
-excerpt: "WhiteMech: Team members"
+excerpt: "WhiteMech: Team Members"
 sitemap: false
 permalink: /team/
 ---
@@ -77,7 +77,7 @@ permalink: /team/
 
 
 
-## Master Students
+<!--## Master Students
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -130,8 +130,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-
-<!-- ## Alumni
+## Alumni
 
 {% assign number_printed = 0 %}
 {% for member in site.data.alumni_members %}
@@ -186,10 +185,10 @@ permalink: /team/
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
-</div> 
+</div>
 
-</div> -->
+</div>
 
 
-## Administrative Support
-<a href="mailto:comito@di.uniroma1.it">Emanuela Comito</a> is helping us (and other groups) with administration.
+<!-- ## Administrative Support
+<a href="mailto:comito@di.uniroma1.it">Emanuela Comito</a> is helping us (and other groups) with administration. -->
