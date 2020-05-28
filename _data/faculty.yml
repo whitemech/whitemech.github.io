@@ -1,0 +1,18 @@
+- name: Giuseppe De Giacomo
+  photo: giuseppe.jpg
+  info: Full professor, PI
+  email: mailto:degiacomo@diag.uniroma1.it
+  website: https://www.dis.uniroma1.it/degiacom
+  number_educ: 0
+  education1:
+  education2:
+
+- name: Fabio Patrizi
+  photo: fabio.jpg
+  info: Associate Professor
+  email: mailto:patrizi@diag.uniroma1.it
+  website: https://www.dis.uniroma1.it/~patrizi
+  number_educ: 0
+  education1:
+  education2:
+  education3:
