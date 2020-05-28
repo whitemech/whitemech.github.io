@@ -1,26 +1,26 @@
 /* change the background color */
-.navbar-custom {
+.navbar {
     background-color: #802433;
 }
 /* change the brand and text color */
-.navbar-custom .navbar-brand {
+.navbar .navbar-brand {
     color: rgb(255, 255, 255);
 }
 /*.navbar-custom .navbar-text {
     color: rgb(219, 219, 219);
 }*/
 /* change the link color */
-.navbar-custom .navbar-nav .nav-link {
+.navbar .navbar-nav .nav-link {
     color: rgba(219, 219, 219, 0.50);
 }
 /* change the color of active or hovered links */
-.navbar-custom .navbar-nav .nav-item .nav-link .active {
+.navbar .navbar-nav .nav-item .nav-link .active {
     color: rgb(255, 255, 255);
 }
 /*.navbar-custom .navbar-nav .nav-item:focus .nav-link {
     color: rgb(255, 255, 255); !important;
 }*/
-.navbar-custom .navbar-nav .nav-item:hover .nav-link {
+.navbar .navbar-nav .nav-item:hover .nav-link {
     color: #ffffff; !important;
 }
 

@@ -10,7 +10,7 @@ permalink: /people
 We are currently looking for new PhD students, Postdocs, and Master students to join the team <a href="{{ site.url }}{{ site.baseurl }}/vacancies" class="alert-link">see openings</a>.
 </div>
 
-# Faculty.
+# Faculty
 {% assign number_printed = 0 %}
 {% for member in site.data.faculty %}
 
@@ -49,7 +49,7 @@ We are currently looking for new PhD students, Postdocs, and Master students to 
 
 
 
-# Postdocs.
+# Postdocs
 {% assign number_printed = 0 %}
 {% for member in site.data.postdocs %}
 
@@ -90,7 +90,7 @@ We are currently looking for new PhD students, Postdocs, and Master students to 
 </div>
 {% endif %}
 
-# PhD Students.
+# PhD Students
 
 {% assign number_printed = 0 %}
 {% for member in site.data.phds %}
