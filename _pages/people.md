@@ -1,20 +1,18 @@
 ---
 title: "WhiteMech - People"
 layout: gridlay
-excerpt: "WhiteMech: Team Members"
+excerpt: "WhiteMech: People"
 sitemap: false
-permalink: /team/
+permalink: /people
 ---
 
-# People
+<div class="alert alert-danger">
+We are currently looking for new PhD students, Postdocs, and Master students to join the team <a href="{{ site.url }}{{ site.baseurl }}/vacancies" class="alert-link">see openings</a>.
+</div>
 
- **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-
-<!-- Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors). -->
-
+# Faculty.
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.faculty %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -23,7 +21,46 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/faculty/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
+  <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  </ul>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
+
+
+# Postdocs.
+{% assign number_printed = 0 %}
+{% for member in site.data.postdocs %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
+
+<div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/postdocs/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
@@ -37,27 +74,6 @@ permalink: /team/
   <li> {{ member.education2 }} </li>
   {% endif %}
 
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 5 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  <li> {{ member.education5 }} </li>
-  {% endif %}
-
   </ul>
 </div>
 
@@ -74,12 +90,10 @@ permalink: /team/
 </div>
 {% endif %}
 
+# PhD Students.
 
-
-
-<!--## Master Students
 {% assign number_printed = 0 %}
-{% for member in site.data.students %}
+{% for member in site.data.phds %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -88,32 +102,20 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/phds/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
-
+  
   {% if member.number_educ == 1 %}
   <li> {{ member.education1 }} </li>
   {% endif %}
-
+    
   {% if member.number_educ == 2 %}
   <li> {{ member.education1 }} </li>
   <li> {{ member.education2 }} </li>
   {% endif %}
 
-  {% if member.number_educ == 3 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 4 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  <li> {{ member.education3 }} </li>
-  <li> {{ member.education4 }} </li>
-  {% endif %}
-
   </ul>
 </div>
 
@@ -130,39 +132,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-## Alumni
-
-{% assign number_printed = 0 %}
-{% for member in site.data.alumni_members %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
-<div class="row">
-{% endif %}
-
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.duration }} <br> Role: {{ member.info }}</i>
-  <ul style="overflow: hidden">
-
-  </ul>
-</div>
-
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
-
+<!--
 ## Former visitors, BSc/ MSc students
 <div class="row">
 
@@ -191,8 +161,15 @@ permalink: /team/
 -->
 
 
-## Administration
+# Administration.
+{% assign number_printed = 0 %}
 {% for member in site.data.admin_members %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/adminpic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
@@ -212,4 +189,5 @@ permalink: /team/
 
   </ul>
 </div>
+
 {% endfor %}

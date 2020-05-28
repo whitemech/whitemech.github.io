@@ -3,7 +3,7 @@ title: "WhiteMech - Publications"
 layout: publay
 excerpt: "WhiteMech -- Publications."
 sitemap: false
-permalink: /publications/
+permalink: /publications
 ---
 
 
