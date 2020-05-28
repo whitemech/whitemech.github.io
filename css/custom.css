@@ -1,47 +1,44 @@
-/* change the background color */
+/* Navbar */
 .navbar {
     background-color: #802433;
 }
-/* change the brand and text color */
 .navbar .navbar-brand {
     color: rgb(255, 255, 255);
 }
-/*.navbar-custom .navbar-text {
-    color: rgb(219, 219, 219);
-}*/
-/* change the link color */
 .navbar .navbar-nav .nav-link {
     color: rgba(219, 219, 219, 0.50);
 }
-/* change the color of active or hovered links */
 .navbar .navbar-nav .nav-item .nav-link .active {
     color: rgb(255, 255, 255);
 }
-/*.navbar-custom .navbar-nav .nav-item:focus .nav-link {
+.navbar .navbar-nav .nav-item:focus .nav-link {
     color: rgb(255, 255, 255); !important;
-}*/
+}
 .navbar .navbar-nav .nav-item:hover .nav-link {
     color: #ffffff; !important;
 }
 
-/*img { margin-bottom: 24px;
-    margin-top: 17px;
-    border-radius:2%;
-}*/
+/* Footer */
+.footer {
+    background-color: #802433;
+}
+.footer a {
+    color: white;
+}
+
 /* Team & Publications */
 #pubid img { margin: 0px 0px 0px 0; border-radius:10%;}
 #gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
-#homeid img { margin: 0 0 0 0; border-radius:5%; box-shadow: 0px 0px 0px #888888 }
 #picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
 #gridid .row { margin-bottom: 24px; }
 
 #homeid .jumbotron {
     background: rgba(128, 36, 51, 0.2);
 }
-
-.footer {
+#homeid .jumbotron .btn-custom{
     background-color: #802433;
-}
-.footer a {
     color: white;
+}
+#homeid .jumbotron .btn-custom:hover{
+    background-color: rgba(128, 36, 51, 0.8);
 }
