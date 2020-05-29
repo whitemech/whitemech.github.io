@@ -1,0 +1,48 @@
+- name: Antonio Di Stasio
+  photo: antonio.png
+  info: Postdoctoral Researcher
+  email: distasio@diag.uniroma1.it
+  website: http://wpage.unina.it/antonio.distasio
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+  education4:
+
+- name: Ramon Fraga Pereira
+  photo: ramon.jpg
+  info: Postdoctoral Researcher
+  email: ramonfpereira@gmail.com
+  website: https://ramonpereira.github.io/
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+
+- name: Giuseppe Perelli
+  photo: giuseppe.jpg
+  info: Research Associate
+  email: perelli@diag.uniroma1.it
+  website: https://giuseppeperelli.github.io/
+  number_educ: 0
+  education1:
+
+- name: Alessandro Ronca
+  photo: alessandro.jpg
+  info: Postdoctoral Researcher
+  email: ronca@diag.uniroma1.it
+  website: https://ronca.me/
+  number_educ: 0
+  education1:
+  education2:
+  education3:
+
+- name: Shufang Zhu
+  photo: shufang.jpg
+  info: Postdoctoral Researcher
+  email: shufang.zhu.szhu@gmail.com
+  webiste: https://lab301.cn/blog/?page_id=210&lang=en
+  number_educ: 0
+  education1:
+  education2:
+  education3:

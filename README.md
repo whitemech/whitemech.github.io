@@ -21,7 +21,6 @@ Then:
 
 ```
 bundle install
-
 ```
 
 ## Build
