@@ -8,6 +8,6 @@ permalink: /
 
 We are grateful for funding from the European Union with an [ERC Advanced Grant](https://erc.europa.eu/funding/advanced-grants).
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/logo-erc.svg" style="width: 25%">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Sapienza.svg" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/static/images/logopic/logo-erc.svg" style="width: 25%">
+  <img src="{{ site.url }}{{ site.baseurl }}/static/images/logopic/logo-sapienza.svg" style="width: 25%">
 </figure>
