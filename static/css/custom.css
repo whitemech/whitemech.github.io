@@ -1,0 +1,43 @@
+/* Navbar */
+.navbar {
+    background-color: #802433;
+}
+.navbar .navbar-brand {
+    color: rgb(255, 255, 255);
+}
+.navbar .navbar-nav .nav-link {
+    color: rgba(219, 219, 219, 0.50);
+}
+.navbar .navbar-nav .nav-item .nav-link .active {
+    color: rgb(255, 255, 255);
+}
+.navbar .navbar-nav .nav-item:focus .nav-link {
+    color: rgb(255, 255, 255); !important;
+}
+.navbar .navbar-nav .nav-item:hover .nav-link {
+    color: #ffffff; !important;
+}
+
+/* Footer */
+.footer {
+    background-color: #802433;
+}
+.footer a {
+    color: white;
+}
+
+/* Team & Publications */
+#pubid img { margin: 0px 0px 0px 0; border-radius:10%;}
+#gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
+#gridid .row { margin-bottom: 24px; }
+
+#homeid .jumbotron {
+    background: rgba(128, 36, 51, 0.2);
+}
+#homeid .jumbotron .btn-custom{
+    background-color: #802433;
+    color: white;
+}
+#homeid .jumbotron .btn-custom:hover{
+    background-color: rgba(128, 36, 51, 0.8);
+}

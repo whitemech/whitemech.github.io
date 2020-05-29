@@ -2,11 +2,24 @@
 layout: default
 ---
 
-  <div id="homeid" class="col-sm-8">
-        <h1>Welcome to the WhiteMech website</h1>
-
-	{{ content }}
+  <div id="homeid" class="container">
+      <div class="jumbotron">
+          <h1 class="display-4">Welcome to WhiteMech!</h1>
+          <p class="lead text-justify">
+              WhiteMech aims at developing the science and the tools for mechanisms that are able to program themselves, automatically
+              tailor their behavior so as to achieve desired goals, maintain themselves within safe boundaries in a changing
+              environment, and follow regulations and conventions that evolve over time. Crucially, empowering mechanisms with
+              self-programming carries significant risks and therefore we must be able to balance power with safety. For this reason
+              WhiteMech intends to realize mechanisms that are white-box, that is, whose behavior is, at any moment, fully analyzable
+              and comprehensible in human terms, and guarded by human oversight.
+          </p>
+          <hr class="my-4">
+          <p>
+              {{ content }}
+          </p>
+          <a class="btn btn-custom btn-lg" href="{{ site.url }}{{ site.baseurl }}/research" role="button">Read more</a>
+      </div>
   </div>
-  <div id="newsid" class="col-sm-4" >
+<!--  <div id="newsid" class="col-sm-4" >
 	{% include news.html %}
-  </div>
+  </div>-->

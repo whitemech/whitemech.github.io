@@ -3,24 +3,24 @@ title: "WhiteMech - Research"
 layout: textlay
 excerpt: "WhiteMech -- Research"
 sitemap: false
-permalink: /research/
+permalink: /research
 ---
 
 # Research
-
-Project WhiteMech (White-Box Self-Programming Mechanisms) addresses 
+<p class="text-justify">
+The project WhiteMech (White-Box Self-Programming Mechanisms) addresses 
 the study and development of artificial intelligence systems that are 
 capable of independently reprogramming themselves to achieve new 
 objectives, in reaction to unexpected changes, and conform to the 
 evolution of human rules and agreements in specific contexts. In 
 particular, the objective is to develop systems that are "white-box 
-by design,” meaning that they can be interrogated, analysed and 
+by design”, meaning that they can be interrogated, analysed and 
 managed, at any moment, in terms comprehensible to human beings, to 
 decrease the risk implicit in a self-programming system. The 
 parallel research activities address the application of these 
 systems in smart manufacturing (Industry 4.0), smart spaces (
-Internet of Things) and robotic automation processes (business 
-process management).
+Internet of Things) and robotic automation processes (Business 
+Process Management).
 
 In order to reach this objective, the study will also address 
 subjects that are transversal to artificial intelligence including 
@@ -29,23 +29,35 @@ the representation of understanding, automatic reasoning and planning
 assessment and automatic development of programmes, and data 
 management, including the analysis and synthesis of data-aware 
 processes.
+</p>
 
-<!-- TODO -->
-<!--
 
-Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
+## Context.
+<p class="text-justify">
+We are witnessing an increasing availability of mechanisms that offer form of programmability. 
+These mechanisms are currently being revolutionized by advancements in sensing (vision, language 
+understanding) and actuation components (autonomous mobile manipulators, automated storage and 
+retrieval systems). However, such mechanisms are held back by the fact that their logic is still 
+based on hard-wired rules encoded in hand-crafted programs.
+</p>
 
-Questions of interest include: (i), How does the Mott state collapse upon doping and how is this related to the complex phase diagram of high-temperature superconductors? (ii), What is the strange metal phase seen in correlated electron systems? Is this an exotic long-range entangled state? What is the mechanism of dissipation in that state? (iii), Why is the transition temperature in high-temperature superconductors so high?
+## How.
+<p class="text-justify">
+Recent discoveries in Knowledge Representation, Reasoning about Actions and Planning, and 
+Reinforcement Learning in Artificial Intelligence, and their connections to Verification and 
+Synthesis in Formal Methods, and Data-Aware Processes in Databases, chart an novel path to 
+produce a breakthrough.
+</p>
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_real.jpg){: style="width: 300px; float: right; border: 10px"}
+## Driving Applications.
+<p class="text-justify">
+WhiteMech will ground its scientific results upon three driving applications: smart 
+manufacturing (Industry 4.0), smart spaces (IoT) and business process management systems (BPM).
+</p>
 
-Currently, our instrument of choice  is SI-STM.  State-of-the-art SI-STM measures an array of tunneling spectra on a given sample, registered to the atomic sites with picometer precision. Each is proportional to the local density of states at a given location. Ideally, the recorded spectra are so tightly packed that the measurement yields a three-dimensional mapping of the local density of states as a function of locations and energy. This is shown on the image on the right-hand side (10x10 nm2), and its Fourier transform, below.
-
-The quantum materials which we will investigate encapsulate some of the great unsolved mysteries of physics. They include high-temperature superconductors, quantum-critical compounds, graphene, and topological electronic matter that can be used for error-resistant quantum computing.
-
-![]({{ site.url }}{{ site.baseurl }}/images/respic/layers_fft.jpg){: style="width: 300px; float: left; border: 10px"}
-
-A main goal is to use modern technology to build the new instrumentation needed to understand these quantum materials. I learned my trade in [Seamus Davis’ SI-STM lab](http://davisgroup.lassp.cornell.edu/) and with [Felix Baumberger](http://dpmc.unige.ch/gr_baumberger/index.html), and later moved as an [ETH fellow](http://www.ethfellows.ethz.ch/) to [Andreas Wallraff’s qudev lab](http://www.qudev.ethz.ch/) where we investigated coupled cavity arrays in circuit QED. This allowed me to learn new techniques such as high frequency measurements, low temperature noise-free amplification, and quantum-limited measurements. The goal is to combine these with SI-STM.
-
-This will enable the instrumental capabilities to visualize the different quantum mechanical degrees of freedom needed to understand next-generation quantum materials. STM will be the main method, but we use different spectroscopic-imaging techniques to visualize not only the topography, but also the density of states, spins, and other degrees of freedom hidden below the surface.
--->
+## Tools.
+<p class="text-justify">
+At WhiteMech we develop state-of-the-art tools. You can find them on our 
+<a href="https://github.com/whitemech" target="_blank">GitHub</a>
+organization.
+</p>

@@ -1,25 +1,25 @@
-<div class="navbar navbar-default navbar-fixed-top" role="navigation">
-  <div class="container-fluid">
-	<div class="navbar-header">
-	  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse-1" aria-expanded="false">
-		<span class="sr-only">Toggle navigation</span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-		<span class="icon-bar"></span>
-	  </button>
-	
-    <a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">WhiteMech @ Sapienza University</a>
+<nav class="navbar navbar-expand-lg navbar-dark sticky-top mb-5 py-4">
+	<div class="container-lg">
+		<a class="navbar-brand" href="{{ site.url }}{{ site.baseurl }}/">WhiteMech</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarNav">
+			<ul class="navbar-nav ml-auto">
+				{% assign current = page.url | downcase | split: '/' %}
+				<li {% if current[1] == null %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
+					<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/"><i class="fa fa-th-large"></i> Home</a>
+				</li>
+				<li {% if current[1] == 'research' %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
+					<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/research"><i class="fa fa-university"></i> Research</a>
+				</li>
+				<li {% if current[1] == 'people' %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
+					<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/people"><i class="fa fa-users"></i> People</a>
+				</li>
+				<li {% if current[1] == 'publications' %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
+					<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/publications"><i class="fa fa-file"></i> Publications</a>
+				</li>
+			</ul>
+		</div>
 	</div>
-	<div class="collapse navbar-collapse" id="navbar-collapse-1">
-	  <ul class="nav navbar-nav navbar-right">
-		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/team">Team</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/vacancies">Vacancies</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/research">Research</a></li>
-        <!-- TODO decide what to do with pictures-->
-		<!-- <li><a href="{{ site.url }}{{ site.baseurl }}/pictures">(Pics)</a></li> -->
-	  </ul>
-	</div>
-  </div>
-</div>
+</nav>
