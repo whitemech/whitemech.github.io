@@ -32,7 +32,7 @@ processes.
 </p>
 
 
-## Context.
+## Context
 <p class="text-justify">
 We are witnessing an increasing availability of mechanisms that offer form of programmability. 
 These mechanisms are currently being revolutionized by advancements in sensing (vision, language 
@@ -41,7 +41,7 @@ retrieval systems). However, such mechanisms are held back by the fact that thei
 based on hard-wired rules encoded in hand-crafted programs.
 </p>
 
-## How.
+## How
 <p class="text-justify">
 Recent discoveries in Knowledge Representation, Reasoning about Actions and Planning, and 
 Reinforcement Learning in Artificial Intelligence, and their connections to Verification and 
@@ -49,13 +49,13 @@ Synthesis in Formal Methods, and Data-Aware Processes in Databases, chart an nov
 produce a breakthrough.
 </p>
 
-## Driving Applications.
+## Driving Applications
 <p class="text-justify">
 WhiteMech will ground its scientific results upon three driving applications: smart 
 manufacturing (Industry 4.0), smart spaces (IoT) and business process management systems (BPM).
 </p>
 
-## Tools.
+## Tools
 <p class="text-justify">
 At WhiteMech we develop state-of-the-art tools. You can find them on our 
 <a href="https://github.com/whitemech" target="_blank">GitHub</a>
