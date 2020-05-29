@@ -8,7 +8,7 @@ permalink: /publications
 
 # Publications
 
-<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/whitemech/whitemech.github.io/master/whitemech-publications.bib&jsonp=1"></script>
+<script src="https://bibbase.org/show?bib=https%3A%2F%2Fdl.dropboxusercontent.com%2Fs%2F1ojds36icbrmvuc%2Fwhitemech-publications.bib&jsonp=1"></script>
 
 <!-- ## Full List
 
