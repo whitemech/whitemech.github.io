@@ -41,3 +41,8 @@
 #homeid .jumbotron .btn-custom:hover{
     background-color: rgba(128, 36, 51, 0.8);
 }
+
+/* Disable links on publications title */
+.bibbase_paper_title a {
+    pointer-events: none;
+}
