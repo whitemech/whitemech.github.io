@@ -28,8 +28,11 @@
 
 /* Team & Publications */
 #pubid img { margin: 0px 0px 0px 0; border-radius:10%;}
-#gridid img { margin: 16px 22px 6px 0; border-radius:10%; box-shadow: 2px 2px 5px #888888 }
-#gridid .row { margin-bottom: 24px; }
+/*#gridid img { margin: 16px 22px 6px 0;  }*/
+/*#gridid .row { margin-bottom: 24px; }*/
+#gridid p {
+    margin-bottom: 0;
+}
 
 #homeid .jumbotron {
     background: rgba(128, 36, 51, 0.2);
@@ -41,6 +44,10 @@
 #homeid .jumbotron .btn-custom:hover{
     background-color: rgba(128, 36, 51, 0.8);
 }
+
+/* Align Material Icons */
+i { vertical-align: middle !important; }
+.material-icons.md-24 { font-size: 24px; }
 
 /* Disable links on publications title */
 .bibbase_paper_title a {
