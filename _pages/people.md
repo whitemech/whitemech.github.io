@@ -7,7 +7,7 @@ permalink: /people
 ---
 
 <div class="alert alert-danger">
-We are currently looking for new PhD students, Postdocs, and Master students to join the team <a href="{{ site.url }}{{ site.baseurl }}/openings" class="alert-link">see openings</a>.
+We are currently looking for new PhD students, Postdocs, and Master students to join the team. <a href="{{ site.url }}{{ site.baseurl }}/openings" class="alert-link">See openings!</a>
 </div>
 
 # Faculty
@@ -17,22 +17,32 @@ We are currently looking for new PhD students, Postdocs, and Master students to 
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-<div class="row">
+<div class="row mt-4">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/static/images/faculty/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  </ul>
+{::nomarkdown} 
+<div class="card shadow mb-3 ml-3" style="max-width: 545px;">
+<div class="row">
+<div class="col-md-4">
+<img src="{{ site.url }}{{ site.baseurl }}/static/images/faculty/{{ member.photo }}" class="card-img" alt="...">
 </div>
+<div class="col-md-8">
+<div class="card-body">
+<h5 class="card-title">{{ member.name }}</h5>
+<p class="card-text mb-4">{{ member.info }}</p>
 
+{% if member.website %}
+<a target="_blank" href="{{ member.website }}"><i class="material-icons-outlined">perm_identity</i></a>
+{% endif %}
+{% if member.scholar %}
+<a target="_blank" href="{{ member.scholar }}"><i class="material-icons-outlined">science</i></a>
+{% endif %}
+
+</div>
+</div>
+</div>
+</div>
+{:/}  
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
@@ -53,27 +63,38 @@ We are currently looking for new PhD students, Postdocs, and Master students to 
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-<div class="row">
+<div class="row  mt-4">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/static/images/postdocs/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  </ul>
+{::nomarkdown} 
+<div class="card shadow mb-3 ml-3" style="max-width: 545px;">
+<div class="row">
+<div class="col-md-4">
+<img src="{{ site.url }}{{ site.baseurl }}/static/images/postdocs/{{ member.photo }}" class="card-img" alt="...">
 </div>
+<div class="col-md-8">
+<div class="card-body">
+<h5 class="card-title">{{ member.name }}</h5>
+<p class="card-text mb-4">{{ member.info }}</p>
 
+{% if member.website %}
+<a target="_blank" href="{{ member.website }}"><i class="material-icons-outlined">perm_identity</i></a>
+{% endif %}
+{% if member.scholar %}
+<a target="_blank" href="{{ member.scholar }}"><i class="material-icons-outlined">science</i></a>
+{% endif %}
+{% if member.linkedin %}
+<a target="_blank" href="{{ member.linkedin }}"><i class="material-icons-round">link</i></a>
+{% endif %}
+{% if member.github %}
+<a target="_blank" href="{{ member.github }}"><i class="material-icons-round">code</i></a>
+{% endif %}
+
+</div>
+</div>
+</div>
+</div>
+{:/}  
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
@@ -95,27 +116,38 @@ We are currently looking for new PhD students, Postdocs, and Master students to 
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-<div class="row">
+<div class="row  mt-4">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/static/images/phds/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
-  
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-    
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  </ul>
+{::nomarkdown} 
+<div class="card shadow mb-3 ml-3" style="width: 545px;">
+<div class="row">
+<div class="col-md-4">
+<img src="{{ site.url }}{{ site.baseurl }}/static/images/phds/{{ member.photo }}" class="card-img" alt="...">
 </div>
+<div class="col-md-8">
+<div class="card-body">
+<h5 class="card-title">{{ member.name }}</h5>
+<p class="card-text mb-4">{{ member.info }}</p>
 
+{% if member.website %}
+<a target="_blank" href="{{ member.website }}"><i class="material-icons-outlined">perm_identity</i></a>
+{% endif %}
+{% if member.scholar %}
+<a target="_blank" href="{{ member.scholar }}"><i class="material-icons-outlined">science</i></a>
+{% endif %}
+{% if member.linkedin %}
+<a target="_blank" href="{{ member.linkedin }}"><i class="material-icons-round">link</i></a>
+{% endif %}
+{% if member.github %}
+<a target="_blank" href="{{ member.github }}"><i class="material-icons-round">code</i></a>
+{% endif %}
+
+</div>
+</div>
+</div>
+</div>
+{:/}  
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
@@ -136,25 +168,36 @@ We are currently looking for new PhD students, Postdocs, and Master students to 
 {% assign even_odd = number_printed | modulo: 2 %}
 
 {% if even_odd == 0 %}
-<div class="row">
+<div class="row mt-4">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/static/images/admin/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
-  <i>{{ member.info }}<br>email: <{{ member.email }}></i>
-  <ul style="overflow: hidden">
-
-  {% if member.number_educ == 1 %}
-  <li> {{ member.education1 }} </li>
-  {% endif %}
-
-  {% if member.number_educ == 2 %}
-  <li> {{ member.education1 }} </li>
-  <li> {{ member.education2 }} </li>
-  {% endif %}
-
-  </ul>
+{::nomarkdown} 
+<div class="card shadow mb-3 ml-3" style="width: 545px;">
+<div class="row">
+<div class="col-md-4">
+<img src="{{ site.url }}{{ site.baseurl }}/static/images/admin/{{ member.photo }}" class="card-img" alt="...">
 </div>
+<div class="col-md-8">
+<div class="card-body">
+<h5 class="card-title">{{ member.name }}</h5>
+<p class="card-text mb-4">{{ member.info }}</p>
 
+{% if member.website %}
+<a target="_blank" href="{{ member.website }}"><i class="material-icons-outlined">perm_identity</i></a>
+{% endif %}
+{% if member.scholar %}
+<a target="_blank" href="{{ member.scholar }}"><i class="material-icons-outlined">science</i></a>
+{% endif %}
+{% if member.linkedin %}
+<a target="_blank" href="{{ member.linkedin }}"><i class="material-icons-round">link</i></a>
+{% endif %}
+{% if member.github %}
+<a target="_blank" href="{{ member.github }}"><i class="material-icons-round">code</i></a>
+{% endif %}
+
+</div>
+</div>
+</div>
+</div>
+{:/}  
 {% endfor %}

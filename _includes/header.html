@@ -8,19 +8,19 @@
 			<ul class="navbar-nav ml-auto">
 				{% assign current = page.url | downcase | split: '/' %}
 				<li {% if current[1] == null %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
-					<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/"><i class="fa fa-th-large"></i> Home</a>
+					<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/"><i class="material-icons-round">view_module</i> Home</a>
 				</li>
 				<li {% if current[1] == 'research' %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
-					<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/research"><i class="fa fa-university"></i> Research</a>
+					<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/research"><i class="material-icons-round">school</i> Research</a>
 				</li>
 				<li {% if current[1] == 'people' %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
-					<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/people"><i class="fa fa-users"></i> People</a>
+					<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/people"><i class="material-icons-round">group</i> People</a>
 				</li>
 				<li {% if current[1] == 'publications' %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
-					<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/publications"><i class="fa fa-file"></i> Publications</a>
+					<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/publications"><i class="material-icons-round">list</i> Publications</a>
 				</li>
 				<li {% if current[1] == 'openings' %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
-				<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/openings"><i class="fa fa-briefcase"></i> Hiring</a>
+				<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/openings"><i class="material-icons-round">business_center</i> Hiring</a>
 				</li>
 			</ul>
 		</div>
