@@ -7,6 +7,7 @@ permalink: /openings
 ---
 
 # Open positions
+## Nov. 1, 2019 ~ Oct. 31, 2024
 
 We are currently looking for Senior Postdocs, Junior Postdocs and PhD students.
 Candidates must have strong mathematical and computational skills. Specific topics of interest include, but are not limited to:
@@ -33,4 +34,4 @@ are available for the entire project team.
 
 Prospective candidates are invited to make an expression of interest
 by sending an e-mail including a CV and the name of two
-references to [whitemech@diag.uniroma1.it](mailto:whitemech@diag.uniroma1.it)
+references to [whitemech@diag.uniroma1.it](mailto:whitemech@diag.uniroma1.it).
