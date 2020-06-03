@@ -7,7 +7,7 @@ permalink: /hiring
 ---
 
 # Open positions
-## Nov. 1, 2019 ~ Oct. 31, 2024
+## Nov. 1, 2019 - Oct. 31, 2024
 
 We are currently looking for Senior Postdocs, Junior Postdocs and PhD students.
 Candidates must have strong mathematical and computational skills. Specific topics of interest include, but are not limited to:
