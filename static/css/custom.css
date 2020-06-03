@@ -55,6 +55,7 @@ i { vertical-align: middle !important; }
 }
 
 
+/* Custom iframe Google Maps (/contacts page)*/
 .iframe-rwd  {
     position: relative;
     padding-bottom: 65.25%;
