@@ -53,3 +53,21 @@ i { vertical-align: middle !important; }
 .bibbase_paper_title a {
     pointer-events: none;
 }
+
+
+/* Custom iframe Google Maps (/contacts page)*/
+.iframe-rwd  {
+    position: relative;
+    padding-bottom: 30%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+}
+.iframe-rwd iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
