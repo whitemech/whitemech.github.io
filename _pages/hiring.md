@@ -1,9 +1,9 @@
 ---
-title: "WhiteMech - Vacancies"
+title: "WhiteMech - Hiring"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Hiring"
 sitemap: false
-permalink: /openings
+permalink: /hiring
 ---
 
 # Open positions

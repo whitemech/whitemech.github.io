@@ -19,8 +19,14 @@
 				<li {% if current[1] == 'publications' %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
 					<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/publications"><i class="material-icons-round">list</i> Publications</a>
 				</li>
-				<li {% if current[1] == 'openings' %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
-				<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/openings"><i class="material-icons-round">business_center</i> Hiring</a>
+				<li {% if current[1] == 'media' %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
+				<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/media"><i class="material-icons-round">share</i> Media</a>
+				</li>
+				<li {% if current[1] == 'hiring' %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
+				<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/hiring"><i class="material-icons-round">business_center</i> Hiring</a>
+				</li>
+				<li {% if current[1] == 'contacts' %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
+				<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/contacts"><i class="material-icons-round">business</i> Contacts</a>
 				</li>
 			</ul>
 		</div>
