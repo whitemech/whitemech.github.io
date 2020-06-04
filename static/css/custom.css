@@ -26,6 +26,14 @@
     color: white;
 }
 
+/* Custom Color anchors */
+.main a {
+    color: #802433;
+}
+.main a:hover {
+    color: rgba(128, 36, 51, 0.8);
+}
+
 /* Team & Publications */
 #pubid img { margin: 0px 0px 0px 0; border-radius:10%;}
 /*#gridid img { margin: 16px 22px 6px 0;  }*/
@@ -46,14 +54,23 @@
 }
 
 /* Align Material Icons */
-i { vertical-align: middle !important; }
-.material-icons.md-24 { font-size: 24px; }
+.navbar i { vertical-align: middle !important; }
 
-/* Disable links on publications title */
+/* Customize Bibbase */
 .bibbase_paper_title a {
     pointer-events: none;
 }
-
+.dropdown {
+    margin-right: 2rem;
+}
+.dropdown li{
+    width: 180px;
+    margin-left: 12px;
+}
+.bibbase > pre {
+    border: solid #802433 0.15rem;
+    border-radius: 0.25rem;
+}
 
 /* Custom iframe Google Maps (/contacts page)*/
 .iframe-rwd  {
