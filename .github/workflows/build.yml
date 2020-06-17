@@ -1,0 +1,26 @@
+name: jekyll-ci
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out master
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 1
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.6'
+      - name: 🧪 Build
+        run: |
+          bundle install
+          bundle exec jekyll build
+
