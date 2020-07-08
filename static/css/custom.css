@@ -1,3 +1,22 @@
+/* Footer */
+html, body {
+    height: 100%;
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+.container {
+    flex: 1 0 auto;
+}
+.footer {
+    background-color: #802433;
+    flex-shrink: 0;
+}
+.footer a {
+    color: white;
+}
+
 /* Navbar */
 .navbar {
     background-color: #802433;
@@ -16,14 +35,6 @@
 }
 .navbar .navbar-nav .nav-item:hover .nav-link {
     color: #ffffff; !important;
-}
-
-/* Footer */
-.footer {
-    background-color: #802433;
-}
-.footer a {
-    color: white;
 }
 
 /* Custom Color anchors */
@@ -86,5 +97,14 @@
     left: 0;
     width: 100%;
     height: 100%;
+}
+/* Mobile */
+@media only screen and (max-width: 768px) {
+    .sapienza-logo {
+        text-align: center;
+    }
+    .sapienza-logo img {
+        width: 40%;
+    }
 }
 

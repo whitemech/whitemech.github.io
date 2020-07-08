@@ -18,8 +18,8 @@ by design”, meaning that they can be interrogated, analysed and
 managed, at any moment, in terms comprehensible to human beings, to 
 decrease the risk implicit in a self-programming system. The 
 parallel research activities address the application of these 
-systems in smart manufacturing (Industry 4.0), smart spaces (
-Internet of Things) and robotic automation processes (Business 
+systems in smart manufacturing (Industry 4.0), smart spaces (Internet
+of Things) and robotic automation processes (Business 
 Process Management).
 
 In order to reach this objective, the study will also address 

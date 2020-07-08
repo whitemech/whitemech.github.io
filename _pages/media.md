@@ -7,15 +7,39 @@ permalink: /media
 ---
 
 # Media
-
-<ul>
-{% for article in site.data.media %}
-<li>
-<p class="text-justify">
-{{ article.date }}<br>
-<b>{{ article.title }}</b><br>
-<a target="_blank" href="{{ article.url }}"><i class="material-icons-round">link</i></a>
-</p>
-</li>
-{% endfor %}
-</ul>
+{::nomarkdown}
+<div class="row">
+<div id="mediaid" class="col-sm-3">
+<div class="card">
+  <h5 class="card-header">Links</h5>
+  <div class="card-body">
+    <p class="card-text">
+    {% for article in site.data.links %}
+        <p class="text-justify">
+        <a target="_blank" href="{{ article.url }}"><b>{{ article.title }}</b></a>
+        </p>
+    {% endfor %}
+    </p>
+  </div>
+</div>
+</div>
+<div id="mediaid" class="col-sm-9">
+<div class="card">
+  <h5 class="card-header">Articles</h5>
+  <div class="card-body">
+    <ul>
+    {% for article in site.data.media %}
+        <li>
+        <p class="text-justify">
+        {{ article.date }}<br>
+        <b>{{ article.title }}</b><br>
+        <a target="_blank" href="{{ article.url }}"><i class="material-icons-round">link</i></a>
+        </p>
+        </li>
+    {% endfor %}
+    </ul>
+  </div>
+</div>    
+</div>
+</div>
+{:/}
