@@ -14,9 +14,9 @@ permalink: /media
   <h5 class="card-header">Links</h5>
   <div class="card-body">
     <p class="card-text">
-    {% for article in site.data.links %}
+    {% for link in site.data.links %}
         <p class="text-justify">
-        <a target="_blank" href="{{ article.url }}"><b>{{ article.title }}</b></a>
+        <a target="_blank" href="{{ link.url }}"><b>{{ link.title }}</b></a>
         </p>
     {% endfor %}
     </p>
@@ -33,7 +33,9 @@ permalink: /media
         <p class="text-justify">
         {{ article.date }}<br>
         <b>{{ article.title }}</b><br>
-        <a target="_blank" href="{{ article.url }}"><i class="material-icons-round">link</i></a>
+        {% for url in article.urls %}
+            <a target="_blank" href="{{ url }}"><i class="material-icons-round">link</i></a>
+        {% endfor %}
         </p>
         </li>
     {% endfor %}
