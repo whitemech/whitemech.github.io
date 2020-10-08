@@ -1,10 +1,10 @@
 - name: Damiano Brunori
-  photo: avatar.jpg
+  photo: damiano.jpg
   info: PhD Student, 1st year
   email: brunori.1583073@studenti.uniroma1.it
   website:
   linkedin:
-  github:
+  github: https://github.com/DamianoBrunori
   scholar:
 
 - name: Francesco Chiariello
@@ -17,7 +17,7 @@
   scholar:
 
 - name: Roberto Cipollone
-  photo: avatar.jpg
+  photo: roberto.jpg
   info: PhD Student, 1st year
   email: cipollone.1528014@studenti.uniroma1.it
   website:
