@@ -82,7 +82,7 @@ body {
     border: solid #802433 0.15rem;
     border-radius: 0.25rem;
 }
-/*a[href*=pdf] .bibbase_icon { display: none; }*/
+.bibbase_icon { display: none; }
 
 /* Custom iframe Google Maps (/contacts page)*/
 .iframe-rwd  {
