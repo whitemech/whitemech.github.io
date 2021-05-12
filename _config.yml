@@ -21,9 +21,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-paginate: 3
-paginate_path: "/meetings/:num/"
-
 # Markdown Processing
 kramdown:
   input: GFM
@@ -35,6 +32,13 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+paginate: 3
+paginate_path: "/meetings/:num/"
 
 include:
   - .htaccess
