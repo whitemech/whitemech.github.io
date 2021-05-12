@@ -3,7 +3,7 @@ title: "News"
 layout: textlay
 excerpt: "WhiteMech at Sapienza University."
 sitemap: false
-permalink: /allnews.html
+permalink: /allnews
 ---
 
 # News
