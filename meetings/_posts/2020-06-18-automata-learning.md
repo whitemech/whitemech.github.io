@@ -14,10 +14,5 @@ title: Learning Restraining Bolts by Imitation with L*
 #### Abstract
 Learning Restraining Bolts by Imitation with L*.
 
-
-#### Recommended Readings:
-TBA
-
-
 #### Material
 - [Video](https://youtu.be/ApTbicbQki8?t=6592)
