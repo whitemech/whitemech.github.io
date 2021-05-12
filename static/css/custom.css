@@ -10,7 +10,7 @@ body {
     flex: 1 0 auto;
 }
 .footer {
-    background-color: #802433;
+    background-color: rgb(13,62,105);
     flex-shrink: 0;
 }
 .footer a {
@@ -19,7 +19,7 @@ body {
 
 /* Navbar */
 .navbar {
-    background-color: #802433;
+    background-color: rgb(13,62,105);
 }
 .navbar .navbar-brand {
     color: rgb(255, 255, 255);
@@ -39,10 +39,10 @@ body {
 
 /* Custom Color anchors */
 .main a {
-    color: #802433;
+    color: rgb(13, 62, 105);
 }
 .main a:hover {
-    color: rgba(128, 36, 51, 0.8);
+    color: rgba(13,62,105 0.8);
 }
 
 /* Team & Publications */
@@ -54,14 +54,14 @@ body {
 }
 
 #homeid .jumbotron {
-    background: rgba(128, 36, 51, 0.2);
+    background: rgba(117, 175, 226, 0.4);
 }
 #homeid .jumbotron .btn-custom{
-    background-color: #802433;
+    background-color: rgb(13, 62, 105);
     color: white;
 }
 #homeid .jumbotron .btn-custom:hover{
-    background-color: rgba(128, 36, 51, 0.8);
+    background-color: rgba(117, 175, 226, 1);
 }
 
 /* Align Material Icons */
@@ -79,7 +79,7 @@ body {
     margin-left: 12px;
 }
 .bibbase > pre {
-    border: solid #802433 0.15rem;
+    border: solid rgb(13, 62, 105) 0.15rem;
     border-radius: 0.25rem;
 }
 .bibbase_icon { display: none; }
@@ -109,3 +109,109 @@ body {
     }
 }
 
+/*
+ * Posts and pages
+ *
+ * Each post is wrapped in `.post` and is used on default and post layouts. Each
+ * page is wrapped in `.page` and is only used on the page layout.
+ */
+
+.page,
+.post {
+    margin-bottom: 4em;
+}
+
+/* Blog post or page title */
+.page-title,
+.post-title,
+.post-title a {
+    color: #303030;
+}
+.page-title,
+.post-title {
+    margin-top: 0;
+}
+
+/* Meta data line below post title */
+.post-date {
+    display: block;
+    margin-top: -.5rem;
+    margin-bottom: 1rem;
+    color: #9a9a9a;
+}
+
+/* Related posts */
+.related {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    border-top: 1px solid #eee;
+}
+.related-posts {
+    padding-left: 0;
+    list-style: none;
+}
+.related-posts h3 {
+    margin-top: 0;
+}
+.related-posts li small {
+    font-size: 75%;
+    color: #999;
+}
+.related-posts li a:hover {
+    color: #268bd2;
+    text-decoration: none;
+}
+.related-posts li a:hover small {
+    color: inherit;
+}
+
+/*
+ * Pagination
+ *
+ * Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
+ * there are no more previous or next posts to show.
+ */
+
+.pagination {
+    overflow: hidden; /* clearfix */
+    margin-left: -1rem;
+    margin-right: -1rem;
+    font-family: "PT Sans", Helvetica, Arial, sans-serif;
+    color: #ccc;
+    text-align: center;
+}
+
+/* Pagination items can be `span`s or `a`s */
+.pagination-item {
+    display: block;
+    padding: 1rem;
+    border: 1px solid #eee;
+}
+.pagination-item:first-child {
+    margin-bottom: -1px;
+}
+
+/* Only provide a hover state for linked pagination items */
+a.pagination-item:hover {
+    background-color: #f5f5f5;
+}
+
+@media (min-width: 30em) {
+    .pagination {
+        margin: 3rem 0;
+    }
+    .pagination-item {
+        float: left;
+        width: 50%;
+    }
+    .pagination-item:first-child {
+        margin-bottom: 0;
+        border-top-left-radius:    4px;
+        border-bottom-left-radius: 4px;
+    }
+    .pagination-item:last-child {
+        margin-left: -1px;
+        border-top-right-radius:    4px;
+        border-bottom-right-radius: 4px;
+    }
+}

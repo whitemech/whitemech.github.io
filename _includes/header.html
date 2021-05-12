@@ -19,6 +19,9 @@
 				<li {% if current[1] == 'publications' %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
 					<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/publications"><i class="material-icons-round">list</i> Publications</a>
 				</li>
+				<li {% if current[1] == 'meetings' %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
+				<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/meetings"><i class="material-icons-round">question_answer</i> Meetings</a>
+				</li>
 				<li {% if current[1] == 'hiring' %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
 				<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/hiring"><i class="material-icons-round">business_center</i> Hiring</a>
 				</li>
