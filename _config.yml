@@ -10,16 +10,9 @@ title: WhiteMech
 email: whitemech@diag.uniroma1.it
 description: > # this means to ignore newlines until "baseurl:"
   WhiteMech: White-box Self Programming Mechanisms
-baseurl: ""
 # url: "www.whitemech.diag.uniroma1.it"
-url: ""
-
-include:
-  - .htaccess
-  - _pages
-
-sass:
-  sass_dir: _sass
+url: "https://whitemech.github.io"
+baseurl: ""
 
 # Conversion
 markdown: kramdown
@@ -27,7 +20,6 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -40,3 +32,17 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+paginate: 3
+paginate_path: "/meetings/:num/"
+
+include:
+  - .htaccess
+  - _pages
+
+sass:
+  sass_dir: _sass
