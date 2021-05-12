@@ -13,10 +13,3 @@ title: Molecule Synthesis through Reinforcement Learning
 
 #### Abstract
 Introduction to Molecule Synthesis through Reinforcement Learning.
-
-
-#### Recommended Readings:
-TBA
-
-#### Material
-TBA
