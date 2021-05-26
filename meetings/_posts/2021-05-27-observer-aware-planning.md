@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Unifying Framework for Observer-Aware Planning: Non-Markovian Reward Perspective
+title: "A Unifying Framework for Observer-Aware Planning: Non-Markovian Reward Perspective"
 ---
 **When**:  Thursday, May 27, 2021, 3pm (CEST).
 
@@ -25,5 +25,5 @@ for future research.
 
 #### Material
 
-- [Slides]() soon available
-- [Video]() soon available
+- Slides soon available
+- Video soon available
