@@ -39,6 +39,7 @@ plugins:
 
 paginate: 3
 paginate_path: "/meetings/:num/"
+# future: true
 
 include:
   - .htaccess
