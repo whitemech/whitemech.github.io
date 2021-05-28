@@ -23,7 +23,3 @@ finite histories to describe non-Markovian rewards. We show complexity results f
 Reward Decision Processes with temporal logic, analogous to the results for OAMDP. We then discuss possible directions
 for future research.
 
-#### Material
-
-- Slides soon available
-- Video soon available
