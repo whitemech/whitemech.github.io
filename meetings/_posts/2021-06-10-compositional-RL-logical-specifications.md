@@ -9,7 +9,7 @@ title: "Compositional Reinforcement Learning from Logical Specifications"
 
 **Topic**: Compositional Reinforcement Learning from Logical Specifications.
 
-**Speaker**: [Suguman Bansal](www.sugumanbansal.com), NSF/CRA Computing Innovation Postdoctoral Fellow at the University
+**Speaker**: [Suguman Bansal](http://www.sugumanbansal.com/), NSF/CRA Computing Innovation Postdoctoral Fellow at the University
 of Pennsylvania.
 
 #### Abstract
