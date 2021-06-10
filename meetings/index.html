@@ -21,16 +21,28 @@ layout: textlay
 </div>
 
 <!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
 <div class="pagination">
     {% if paginator.previous_page %}
-    <a class="pagination-item newer" href="{{ paginator.previous_page_path }}">Newer</a>
+    <a href="{{ paginator.previous_page_path }}">&laquo; Prev</a>
     {% else %}
-    <span class="pagination-item newer">Newer</span>
+    <span>&laquo; Prev</span>
     {% endif %}
-<!--    <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>-->
-    {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path }}">Older</a>
+
+    {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+    <span class="page_number">{{ page }}</span>
+    {% elsif page == 1 %}
+    <a href="/meetings">{{ page }}</a>
     {% else %}
-    <span class="pagination-item older">Older</span>
+    <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+    {% endfor %}
+
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}">Next &raquo;</a>
+    {% else %}
+    <span>Next &raquo;</span>
     {% endif %}
 </div>
+{% endif %}

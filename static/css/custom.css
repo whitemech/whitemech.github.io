@@ -171,29 +171,13 @@ body {
  * Super lightweight (HTML-wise) blog pagination. `span`s are provide for when
  * there are no more previous or next posts to show.
  */
-
-.pagination {
-    overflow: hidden; /* clearfix */
-    margin-left: -1rem;
-    margin-right: -1rem;
-    font-family: "PT Sans", Helvetica, Arial, sans-serif;
-    color: #ccc;
-    text-align: center;
-}
-
-/* Pagination items can be `span`s or `a`s */
-.pagination-item {
-    display: block;
-    padding: 1rem;
+.pagination a, .pagination span {
+    padding: 7px 18px;
     border: 1px solid #eee;
-}
-.pagination-item:first-child {
-    margin-bottom: -1px;
-}
-
-/* Only provide a hover state for linked pagination items */
-a.pagination-item:hover {
-    background-color: #f5f5f5;
+    margin-left: -2px;
+    margin-right: -2px;
+    background-color: #ffffff;
+    display: inline-block;
 }
 
 @media (min-width: 30em) {

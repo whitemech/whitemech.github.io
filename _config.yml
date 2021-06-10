@@ -37,7 +37,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-paginate: 3
+paginate: 6
 paginate_path: "/meetings/:num/"
 
 include:

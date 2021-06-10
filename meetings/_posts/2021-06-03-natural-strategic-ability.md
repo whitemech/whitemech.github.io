@@ -35,5 +35,5 @@ program, he was a visiting researcher at the Polish Academy of Sciences, under t
 #### Material
 
 - [Paper](https://www.sciencedirect.com/science/article/pii/S0004370219301717)
-- Slides soon available
-- Video soon available
+- [Video](https://uniroma1.zoom.us/rec/share/vBMIlWgB85_KFpx55TZ6yQO34LDO1tnM18ZDN7EkA5TIK3QSu3Uwxpt5lq_eFMHZ.B8dQGHi-MgZlSfha) (Passcode 8Mhk?9A2)
+
