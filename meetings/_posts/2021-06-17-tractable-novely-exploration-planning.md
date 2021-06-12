@@ -1,13 +1,13 @@
 ---
 layout: post 
-title: "Tractable novelty exploration over Continuous and Discrete Sequential Decision Problems"
+title: "Tractable Novelty Exploration over Continuous and Discrete Sequential Decision Problems"
 ---
 
 **When**:  Thursday, June 17, 2021, 12pm (CEST).
 
 **Where**: Zoom online, check the address in the Google Calendar Event.
 
-**Topic**: Tractable novelty exploration over Continuous and Discrete Sequential Decision Problems.
+**Topic**: Tractable Novelty Exploration over Continuous and Discrete Sequential Decision Problems.
 
 **Speaker**: [Nir Lipovetzky](https://nirlipo.github.io/), Senior Lecturer in Artificial Intelligence at the University
 of Melbourne.
