@@ -41,5 +41,5 @@ She received her Ph.D. (2020) and M.S. (2016) in Computer Science from Rice Univ
 
 #### Material
 
-- Slides soon available
-- Video soon available
+- [Video](https://uniroma1.zoom.us/rec/share/IbeSIkiBlrf7GGZbQUUGngVynpYzyZPl5EZV_DWkltE5HrR3JjfVl7LqUfcjAsNl.2SShNfXU-_q9h4I-)
+- [Slides (restricted access)](https://drive.google.com/file/d/1byYxtpRKkECcNHDZlrrH_zVppBoPqTE_/view?usp=sharing)
