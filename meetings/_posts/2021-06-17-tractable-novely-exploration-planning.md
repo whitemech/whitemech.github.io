@@ -42,5 +42,4 @@ problems, as well as applications to autonomous systems.
 
 #### Material
 
-- Video soon available
-- Slides soon available
+- [Video](https://uniroma1.zoom.us/rec/share/2nCDtoqy5xMLWXDCDx0ICuId2OxrRZ3dOMZvm5UWRxXiotDJ0t8UdrDTfPBHrG6B.aEaoTWWePzSk6hKG) (Passcode 7e5@pNu^)
