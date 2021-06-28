@@ -37,4 +37,4 @@ Professor.
 
 #### Material
 
-- TBA
+- [Video](https://uniroma1.zoom.us/rec/share/vXJNNEOWDIXXPJIMo-gqSL6DCEG1Vq3ZaqiACfSlSiv8OZNfKATd9lYTSEy_-GWj.d10f7NxCpoC5VifT) (Passcode: X?+96uYw)
