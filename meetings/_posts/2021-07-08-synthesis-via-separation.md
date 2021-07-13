@@ -35,4 +35,4 @@ group. His interests include formal methods, logic in computer science and autom
 
 #### Material
 
-- TBA
+- [Video](https://uniroma1.zoom.us/rec/share/ZFak1E7RsR2_tJLoh2kOfM1iModZYSF-LJV4oJWJRUk-BLXmtUKXYh9XkWfI9_4.6_TPRzussfHfRNq5) 
