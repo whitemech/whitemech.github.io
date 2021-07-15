@@ -28,4 +28,5 @@ at AAMAS'17, IJCAI'17, JAIR'18, AAMAS'19 and AIJ'21.
 
 #### Material
 
-- TBA
+- [Slides](https://docs.google.com/presentation/d/12c6J2NvYhyjl5AyqOi57aSLiG6SNGb_9ljKUVK9_INw/edit?usp=sharing)
+- [Video](https://uniroma1.zoom.us/rec/share/wozcNkR1SOeMhJyuLwVQ38a-iqvvof1o298DcPqnpSrBqfThai5lPU4cxoshZ-v3.zmbeZPOXGO3z_m0G) (Passcode: 5Qx.Dxuv)
