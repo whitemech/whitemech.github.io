@@ -1,7 +1,7 @@
 - name: Damiano Brunori
   photo: damiano.jpg
-  info: PhD Student, 1st year
-  email: brunori.1583073@studenti.uniroma1.it
+  info: PhD Student, 2nd year
+  email: brunori@diag.uniroma1.it
   website:
   linkedin:
   github: https://github.com/DamianoBrunori
@@ -9,7 +9,7 @@
 
 - name: Francesco Chiariello
   photo: francesco-c.jpg
-  info: PhD Student, 2nd year
+  info: PhD Student, 3rd year
   email: chiariello@diag.uniroma1.it
   website: https://phd.uniroma1.it/web/FRANCESCO-CHIARIELLO_nP1746480_EN.aspx
   linkedin:
@@ -18,7 +18,7 @@
 
 - name: Roberto Cipollone
   photo: roberto.jpg
-  info: PhD Student, 1st year
+  info: PhD Student, 2nd year
   email: cipollone.1528014@studenti.uniroma1.it
   website:
   linkedin:
@@ -27,7 +27,7 @@
 
 - name: Marco Favorito
   photo: marco.jpg
-  info: PhD Student, 3rd year
+  info: PhD Student, 4th year
   email: favorito@diag.uniroma1.it
   website: https://marcofavorito.me/
   linkedin: https://www.linkedin.com/in/marcofavorito/
@@ -36,16 +36,16 @@
 
 - name: Francesco Fuggitti
   photo: francesco-f.jpg
-  info: PhD Student, 3rd year
+  info: PhD Student, 4th year
   email: fuggitti@diag.uniroma1.it
   website: https://francescofuggitti.github.io/
-  linkedin:
+  linkedin: https://www.linkedin.com/in/francescofuggitti/
   github: https://github.com/francescofuggitti
   scholar: https://scholar.google.com/citations?hl=en&user=UimMVfAAAAAJ
 
 - name: Manuel Namici
   photo: manuel.jpg
-  info: PhD Student, 3rd year
+  info: PhD Student, 4th year
   email: namici@diag.uniroma1.it
   website: https://phd.uniroma1.it/web/NAMICI-MANUEL_nP1211691_EN.aspx
   linkedin:
@@ -54,18 +54,27 @@
 
 - name: Gabriel Paludo Licks
   photo: gabriel.jpg
-  info: PhD Student, 1st year
+  info: PhD Student, 2nd year
   email: licks@diag.uniroma1.it
   website:
   linkedin:
   github: https://github.com/gabrielplicks
   scholar: https://scholar.google.com.br/citations?user=zUjLlV0AAAAJ&hl=en
 
+- name: Luciana Silo
+  photo: luciana.jpg
+  info: PhD Student, 1st year
+  email: silo@diag.uniroma1.it
+  website:
+  linkedin:
+  github: https://github.com/luusi
+  scholar:
+
 - name: Elena Umili
   photo: elena.jpg
-  info: PhD Student, 2nd year
+  info: PhD Student, 3rd year
   email: umili@diag.uniroma1.it
   website: https://phd.uniroma1.it/web/ELENA-UMILI_nP1491499_EN.aspx
   linkedin:
   github: https://github.com/Elena-Umili
-  scholar:
+  scholar: https://scholar.google.it/citations?user=W1KV32kAAAAJ&hl=en
