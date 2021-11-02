@@ -9,7 +9,7 @@ title: "Examining Games and a Way to Repair Them"
 
 **Topic**: Examining Games and a Way to Repair Them.
 
-**Speaker**: [Muhammad Najib](https://www.cs.ox.ac.uk/people/muhammad.najib/), postdoctoral researcher at TU Kaiserslautern, Germany.
+**Speaker**: [Muhammad Najib](https://valvestate.github.io/), postdoctoral researcher at TU Kaiserslautern, Germany.
 
 #### Abstract
 
