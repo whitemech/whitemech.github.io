@@ -24,4 +24,4 @@ Eugenia Ternovska is an associate professor at Simon Fraser University, Vancouve
 
 #### Material
 
-- TBA
+- [Video (restricted access)](https://uniroma1.zoom.us/rec/share/uupHXkFS-4RYaklkGkxJj6RvSJTbVN1DzsB8n5axzmsNBT6rTC-gYsiZL_9L6bw.DdvAS-jDklhTfljR)

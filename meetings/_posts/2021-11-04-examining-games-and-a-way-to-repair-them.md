@@ -23,4 +23,4 @@ Muhammad Najib is a postdoctoral researcher at TU Kaiserslautern, Germany, in Au
 
 #### Material
 
-- TBA
+- [Video (restricted access)](https://uniroma1.zoom.us/rec/share/5fbnoMVrXg0zvCijxFRVu50UDl4GfF_Y3r9QQo9obIhZNhnnETBMqAy_Zu8VFLCA.u3DTmruzHrZhNNet)
