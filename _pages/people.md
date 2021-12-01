@@ -31,6 +31,9 @@ We are currently looking for new PhD students, Postdocs, and Master students to 
 <h5 class="card-title">{{ member.name }}</h5>
 <p class="card-text mb-4">{{ member.info }}</p>
 
+{% if member.email %}
+<a target="_blank" href="mailto:{{ member.email }}"><i class="material-icons-outlined">alternate_email</i></a>
+{% endif %}
 {% if member.website %}
 <a target="_blank" href="{{ member.website }}"><i class="material-icons-outlined">perm_identity</i></a>
 {% endif %}
@@ -77,6 +80,9 @@ We are currently looking for new PhD students, Postdocs, and Master students to 
 <h5 class="card-title">{{ member.name }}</h5>
 <p class="card-text mb-4">{{ member.info }}</p>
 
+{% if member.email %}
+<a target="_blank" href="mailto:{{ member.email }}"><i class="material-icons-outlined">alternate_email</i></a>
+{% endif %}
 {% if member.website %}
 <a target="_blank" href="{{ member.website }}"><i class="material-icons-outlined">perm_identity</i></a>
 {% endif %}
@@ -130,6 +136,9 @@ We are currently looking for new PhD students, Postdocs, and Master students to 
 <h5 class="card-title">{{ member.name }}</h5>
 <p class="card-text mb-4">{{ member.info }}</p>
 
+{% if member.email %}
+<a target="_blank" href="mailto:{{ member.email }}"><i class="material-icons-outlined">alternate_email</i></a>
+{% endif %}
 {% if member.website %}
 <a target="_blank" href="{{ member.website }}"><i class="material-icons-outlined">perm_identity</i></a>
 {% endif %}
@@ -182,6 +191,9 @@ We are currently looking for new PhD students, Postdocs, and Master students to 
 <h5 class="card-title">{{ member.name }}</h5>
 <p class="card-text mb-4">{{ member.info }}</p>
 
+{% if member.email %}
+<a target="_blank" href="mailto:{{ member.email }}"><i class="material-icons-outlined">alternate_email</i></a>
+{% endif %}
 {% if member.website %}
 <a target="_blank" href="{{ member.website }}"><i class="material-icons-outlined">perm_identity</i></a>
 {% endif %}
