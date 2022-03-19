@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: "Certified learning, or learning for verification? "
+title: "Certified learning, or learning for verification?"
 ---
 
 **When**:  Thursday, March 24, 2022, 3pm (CET).
