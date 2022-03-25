@@ -23,3 +23,8 @@ In this talk, I will report on ongoing initiatives in this cross-disciplinary do
 Alessandro Abate is Professor of Verification and Control in the Department of Computer Science at the University of Oxford. Earlier, he did research at Stanford University and at SRI International, and was an Assistant Professor at the Delft Center for Systems and Control, TU Delft. He received a Laurea degree from the University of Padova and MS/PhD at UC Berkeley.  
 
 His research interests lie on the analysis, formal verification, and control theory of heterogeneous and complex dynamical models – in particular of stochastic hybrid systems – and in their applications in cyber-physical systems (particularly involving safety-critical applications, energy, and biological networks). He blends in techniques from machine learning and AI, such as Bayesian inference, reinforcement learning, and game theory.
+
+
+#### Material
+
+- [Video (restricted access)](https://uniroma1.zoom.us/rec/share/2H-3S-mCo1w4kzTIfF9Zo1k8EzdgroQYj-0cYp80cD6nlbGA45cSuXHP669EH0v0.nXIEvIyaPxVvVZ62?startTime=1648130972000)

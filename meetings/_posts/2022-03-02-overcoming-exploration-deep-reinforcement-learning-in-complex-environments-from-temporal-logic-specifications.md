@@ -22,3 +22,5 @@ The talk is a presentation of the paper “Overcoming Exploration: Deep Reinforc
 #### Short Bio
 
 Alessandro Ronca holds a BSc and an MSc in Engineering in Computer Science from Sapienza University of Rome, and a DPhil in Computer Science from University of Oxford. He is currently a PostDoc at Sapienza. His research interests span logic, reasoning, and learning, with a focus on temporal logic and automata theory, using complexity analysis as a guiding principle. His contributions in the field of Knowledge Representation and Reasoning include a study of Temporal Datalog as a language for reasoning over streams of data. In Reinforcement Learning, he has contributed with polynomial bounds for the complexity of PAC-learning policies in Regular Decision Processes, a generalisation of MDPs that lifts the Markov assumption.
+
+
