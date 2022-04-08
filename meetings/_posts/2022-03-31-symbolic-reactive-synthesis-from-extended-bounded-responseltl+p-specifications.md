@@ -24,3 +24,8 @@ First, we study the expressive power of LTLEBR+P, showing that it can express al
 #### Short Bio
 
 Luca Geatti is a postdoc researcher in Computer Science at the Free University of Bozen/Bolzano. His research interests span automata theory, temporal logics, automatic synthesis, reactive synthesis and formal verification.
+
+
+#### Material
+
+- [Video (restricted access)](https://uniroma1.zoom.us/rec/share/JQDMqOwv82vj8KQJOzGOB6l1jXhtdFeglK-MQ_HghpSvd96sDx2QlcyiQM857SiG.kHTHrXE9Bu_0wSxo?startTime=1648731847000)
