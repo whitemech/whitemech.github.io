@@ -21,3 +21,8 @@ In this talk, we outline Business Process Management and its applications in var
 Massimo Mecella is a Professor in the School of Information Engineering, Computer Science and Statistics of SAPIENZA, in the Department of Computer, Control and Management Sciences & Engineering ANTONIO RUBERTI (DIAG, formerly DIS - Department of Computer and Systems Sciences).
 
 His research interests lie on Service Oriented Computing, Process Management, CPSs (Cyber-Physical Systems) and IoT (Internet-of-Things), User-centered design for complex systems, CIS - Cooperative Information Systems and WWW-based information systems, Software architectures, distributed technologies and middleware, Software engineering and Geo-Information Science & Technology (GIS&T). The previous topics are challenged in the application domains of eGovernment and eBusiness, domotics, smart houses and smart spaces, healthcare, disaster/crisis response & management.
+
+
+#### Material
+
+- [Video (restricted access)](https://uniroma1.zoom.us/rec/share/WF3lzlqcF1BjUhtcmUntXuwmzbEM3vAD81Fcdq4yg5uN0v8EGicM40DDTsccYEI9.T0iF6kPdQeVBAqzP?startTime=1649768704000)
