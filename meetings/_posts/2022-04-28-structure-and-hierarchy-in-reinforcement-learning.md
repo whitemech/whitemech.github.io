@@ -3,7 +3,7 @@ layout: post
 title: "Structure and Hierarchy in Reinforcement Learning"
 ---
 
-**When**:  Thursday, April 28, 2022, 3pm (CEST).
+**When**:  Thursday, April 28, 2022, 12pm (CEST).
 
 **Where**: Zoom online, check the address in the Google Calendar Event.
 
