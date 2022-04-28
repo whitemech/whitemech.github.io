@@ -28,3 +28,8 @@ The Multi-disciplinary Conference on Reinforcement Learning and Decision Making 
 #### Short Bio
 
 Anders Jonsson is an associate professor in the Department of Information and Communication Technology working in automated planning and reinforcement learning. He received his Ph.D. in computer science in 2005 from the University of Massachusetts Amherst. His research interests involve sequential decision problems in which one or several agents have to make repeated decisions about what to do. Specifically, he is currently working on sequential decision problems involving multiple agents, hierarchical representations of problems, combining the strengths of reinforcement learning and planning, finding and exploiting structure in sequential decision problems, and analyzing the computational complexity of different classes of problems.
+
+
+#### Material
+
+- [Video (restricted access)](https://uniroma1.zoom.us/rec/share/Yni1vuOlwGpF6UR8f1KthWIOhOCjkabX1EmiIx8jhxjNR927buKHzAVzvXKXBKwj.j82_DZyDniMTLAr_?startTime=1651140505000)
