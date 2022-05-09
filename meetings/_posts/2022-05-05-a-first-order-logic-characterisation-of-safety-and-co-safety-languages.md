@@ -22,3 +22,8 @@ In this talk, we introduce a fragment of S1S[FO], called Safety-FO, and its dual
 #### Short Bio
 
 Luca Geatti is a postdoc researcher in Computer Science at the Free University of Bozen/Bolzano. His research interests span automata theory, temporal logics, automatic synthesis, reactive synthesis and formal verification.
+
+
+#### Material
+
+- [Video (restricted access)](https://uniroma1.zoom.us/rec/share/Jel9bLO5j74NRLIS6vytPZxdrbQZXjQfb3BexyuHeHhGUwivQATe-Fw7Zsi3kp_c.HqnF_PdLzBgwdpBh?startTime=1651756240000)
