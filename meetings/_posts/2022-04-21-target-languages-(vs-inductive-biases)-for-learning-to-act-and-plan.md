@@ -24,4 +24,4 @@ Hector Geffner got his Ph.D at  UCLA with a dissertation that was co-winner of t
 
 #### Material
 
-- [Video (restricted access)](https://uniroma1.zoom.us/rec/share/g7Kh-nQg018GiF_8SwbU7Uc4EcV4FU_c0amew3YoMjtuQdVVnetXvVorDOp3EZc.SKR5S1uiWNNSFBnh?startTime=1650546689000)
+- [Video (restricted access)](https://uniroma1.zoom.us/rec/share/g7Kh-nQg018GiF_8SwbU7Uc4E-cV4FU_c0amew3YoMjtuQdVVnetXvVorDOp3EZc.SKR5S1uiWNNSFBnh?startTime=1650546689000)
