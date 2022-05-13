@@ -14,11 +14,12 @@ permalink: /courses
 - **Type**: PhD Course.
 - **Number of hours**: 20.
 - **Class delivery mode**: Blended
+- **Dates**: From Monday 4th July to Friday 8th July from 14:00 to 18:00
 - **Location**: Room 7, Department of Computer, Automation, and Business Engineering, Sapienza University of Rome
+- **Online Location**: Zoom ([Here]())
 - **Exam**: Can be taken upon request.
 - **Registration**: [Here](https://forms.gle/G6jj71kE92ZDqWU29)
 
-------
 
 ### Abstract
 
@@ -27,84 +28,89 @@ Specifically we will cover the following topics: Planning in nondeterministic do
 
 ### Syllabus (tentative)
 
-1. Planning (first day, first slot - GDG)
-    1. Intro 
-    2. Prelim on fix points
-    3. Deterministi domains
-    4. Nondeterministic domains
-2. LTLf goals (second day, first slot - GDG)
-    1. LTLf
-    2. LTLf 2 Automata
-    3. Deterministic Domains with LTLf goals
-    4. Nondeterministic domains with LTLf goals
-3. Games (second day, second slot - GP) //relate to games on planning 1 & 2
-    1. Intro on 2 players games
-    2. Reachability games
-    3. Safety games
-    4. Safety&Reachability
-    5. Buchi
-4. LTL (first day, second slot - GP)
-    1. LTL on infinite traces
-    2. LTL synthesis
-    3. LTL 2 NBA 2 DPA
-5. Parity Games & Solutions (fourth day, first slot AD)
-6. Synthesis  for LTLf goals under LTL assumptions (third day, first slot AD)
-    1. Assumptions
-        1. Safety
-        2. coSafety
-        3. Fairness
-        4. Stability
-        5. GR(1)
-        6. General LTL
-    2. Thm: E > phi ~ E -> phi
-    3. Solving synthesis for LTLf goals under LTL assumptions (KR2020)
-7. Solutions for notable case of LTLf goals under LTL assumptions (third day, second slot SZ)
-    1. Safety
-    2. Safety & coSafety
-    3. Safety & Fairness
-    4. Safety & Stability
-    5. Safety & GR(1)
-8. Mandatory stop actions (fourth day, second slot SZ)
-9. Symbolic techniques - basics
-10. Symbolic techniques for synthesis
+##### Planning
+1. Introduction
+2. Preliminaries on fix points
+3. Deterministic domains
+4. Nondeterministic domains
+
+##### LTLf goals
+1. LTLf
+2. LTLf 2 Automata
+3. Deterministic Domains with LTLf goals
+4. Nondeterministic domains with LTLf goals
+
+##### LTL Synthesis
+1. LTL on infinite traces
+2. The Synthesis problem
+3. Solution to synthesis via Automata
+
+##### Games on graphs
+1. Introdution on 2 players (turn-based) games
+2. Relationship with Planning and Synthesis
+3. Reachability and safety games
+4. Safe-Reach games
+5. Buchi games
+
+##### Parity Games & Solutions
+
+##### Synthesis  for LTLf goals under LTL assumptions
+1. Assumptions: Safety, coSafety, Fairness, Stability, GR(1), General LTL
+2. Thm: E > phi ~ E -> phi
+3. Solving synthesis for LTLf goals under LTL assumptions (KR2020)
+
+##### Solutions for notable case of LTLf goals under LTL assumptions
+1. Safety
+2. Safety & coSafety
+3. Safety & Fairness
+4. Safety & Stability
+5. Safety & GR(1)
+
+##### Mandatory stop actions
+
+##### Symbolic techniques - basics
+
+##### Symbolic techniques for synthesis
 
 
 ### Calendar (tentative)
 
 
-<table>
+<table style="width:100%">
   <thead>
     <tr>
-      <th>Day</th>
+      <th></th>
       <th>Slot 1</th>
       <th>Slot 2</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
-      <td>Introduction to Planning</td>
-      <td>Introduction to Synthesis</td>
+      <td>Monday </td>
+      <td>Introduction to Planning (De Giacomo)</td>
+      <td>Introduction to LTL Synthesis (Perelli)</td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>LTLf goals</td>
-      <td>Games on Graphs</td>
+      <td>Tuesday</td>
+      <td>LTLf goals (De Giacomo)</td>
+      <td>Games on Graphs (Perelli)</td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>Synthesis for LTLf goals under LTL assumptions</td>
-      <td>Solutions for notable cases of LTLf goals under LTL assumptions </td>
+      <td>Wednesday</td>
+      <td>Synthesis for LTLf goals under LTL assumptions (Di Stasio) </td>
+      <td>Solutions for notable cases of LTLf goals under LTL assumptions (Zhu) </td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>Parity Games: definitions and solutions </td>
-      <td>Mandatory Stop Actions </td>
+      <td>Thursday</td>
+      <td>Parity Games: definitions and solutions (Di Stasio/Perelli) </td>
+      <td>Mandatory Stop Actions (Zhu) </td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>Symbolic techniques - basics</td>
-      <td>Symbolic techniques for synthesis</td>
+      <td>Friday</td>
+      <td>Symbolic techniques - basics (Di Stasio/Zhu)</td>
+      <td>Symbolic techniques for synthesis (Di Stasio/Zhu)</td>
     </tr>
   </tbody>
 </table>
+
+-----
