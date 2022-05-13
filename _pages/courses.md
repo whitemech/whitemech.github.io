@@ -16,7 +16,7 @@ permalink: /courses
 - **Class delivery mode**: Blended
 - **Location**: Room 7, Department of Computer, Automation, and Business Engineering, Sapienza University of Rome
 - **Exam**: Can be taken upon request.
-- **Registration**: [Here]()
+- **Registration**: [Here](https://forms.gle/G6jj71kE92ZDqWU29)
 
 ------
 
