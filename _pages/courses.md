@@ -18,7 +18,8 @@ permalink: /courses
 - **Location**: Room 7, Department of Computer, Automation, and Business Engineering, Sapienza University of Rome
 - **Online Location**: Zoom ([Here]())
 - **Exam**: Can be taken upon request.
-[comment]: - **Registration**: [Here](https://forms.gle/G6jj71kE92ZDqWU29)
+
+<!-- - **Registration**: [Here](https://forms.gle/G6jj71kE92ZDqWU29) -->
 
 ### Registration
 All the students interested in attending the course are invited to register a the following link:
