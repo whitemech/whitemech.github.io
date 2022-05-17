@@ -108,28 +108,28 @@ Basics of symbolic representation. Symbolic techniques for Planning and Synthesi
   <tbody>
     <tr>
       <td>Monday 4th July</td>
-      <td>Introduction to Planning (De Giacomo)</td>
-      <td>Introduction to LTL Synthesis (Perelli)</td>
+      <td>Introduction, transition system, and fixpoints (De Giacomo)</td>
+      <td>Linear Temporal Logic -- LTL (Perelli)</td>
     </tr>
     <tr>
       <td>Tuesday 5th July</td>
-      <td>LTLf goals (De Giacomo)</td>
-      <td>Games on Graphs (Perelli)</td>
+      <td>Planning on deterministic and nondeterministic domains (De Giacomo)</td>
+      <td>LTL Model Checking and Synthesis (Perelli)</td>
     </tr>
     <tr>
       <td>Wednesday 6th July </td>
+      <td>Planning with LTLf goals (De Giacomo) </td>
+      <td>Games on Graphs (Perelli) </td>
+    </tr>
+    <tr>
+      <td>Thursday 7th July</td>
       <td>Synthesis for LTLf goals under LTL assumptions (Di Stasio) </td>
       <td>Solutions for notable cases of LTLf goals under LTL assumptions (Zhu) </td>
     </tr>
     <tr>
-      <td>Thursday 7th July</td>
-      <td>Parity Games: definitions and solutions (Di Stasio/Perelli) </td>
-      <td>Mandatory Stop Actions (Zhu) </td>
-    </tr>
-    <tr>
       <td>Friday 8th July</td>
-      <td>Symbolic techniques - basics (Di Stasio/Zhu)</td>
-      <td>Symbolic techniques for synthesis (Di Stasio/Zhu)</td>
+      <td>Symbolic techniques (Zhu)</td>
+      <td>Parity Games: definitions and solutions (Di Stasio)</td>
     </tr>
   </tbody>
 </table>
