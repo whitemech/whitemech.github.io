@@ -15,8 +15,8 @@ permalink: /courses
 - **Number of hours**: 20.
 - **Class delivery mode**: Blended
 - **Dates**: From Monday 4th July to Friday 8th July from 14:00 to 18:00
-- **Location**: Room 7, Department of Computer, Automation, and Business Engineering, Sapienza University of Rome
-- **Online Location**: Zoom ([Here]())
+- **In presence location**: Room 7, Department of Computer, Automation, and Business Engineering, Sapienza University of Rome
+- **Online Location**: Zoom (link TBA)
 - **Exam**: Can be taken upon request.
 
 <!-- - **Registration**: [Here](https://forms.gle/G6jj71kE92ZDqWU29) -->
@@ -31,70 +31,27 @@ All the students interested in attending the course are invited to register a th
 This course introduces AI planning and program synthesis for tasks (goals) expressed over finite traces, instead of states. Specifically, borrowing from Formal Methods we will consider tasks and environment specifications expressed in LTL, as well as its finite trace variant LTLf.  We will review the main results and algorithmic techniques to handle planning in nondeterministic domains. Then, we will draw connections with verification, reactive synthesis in particular, together with their game-theoretic solution techniques. The main catch is that working with these logics can be based on devising suitable 2-players games and finding strategies, i.e., plans, to win them.
 Specifically we will cover the following topics: Planning in nondeterministic domain, Temporal Logics, LTL, LTLf, Game-theoretic Techniques, Safety Games, Reachability Games, Games for LTL/LTLf objectives, Reactive Synthesis. This course is partially based on the work carried out in ERC Advanced Grant WhiteMech.
 
-### Course content (tentative)
+### Course content
 
-###### Planning
+<!-- ###### Planning -->
+<b>Planning</b>:
 Introduction to planning. Fixpoint calculations. Deterministic and nondeterministc domains. Planning with temporally extended goals. LTLf: linear-time temporal logic over finite traces. From LTLf o finite automata. Deterministic and nondeterministc domains with LTLf goals.
 
-###### Synthesis
-LTL: linear-time temporal logic (over infinite traces). The synthesis problem with LTL goals. Automata-theoretic solutions to Synthesis.
+<!-- ###### Synthesis -->
+<b>Linear Temporal Logic</b>: Logic based language for the representation of programs. Model checking with LTL. The Synthesis problem with LTL goals. Automata-theoretic approach to Model Checking and Synthesis.
 
-###### Games
+<!-- ###### Games -->
+<b>Games</b>:
 Introduction to 2-player (turn-based) games on graphs and their relatioship with Planning and Synthesis. Solutions to simple objective games: Reachability, Safety, Safe-Reach, Buchi Games.
 Parity games: a more sophisticated game objective. Solution to parity games and their relationship with LTL synthesis.
 
-###### Synthesis under assumptions
-The environment represented as an LTL specification. The synthesis under assumption solved as synthesis of an implication formula. Direct and more effective solutions to the synthesis under assumption for notable cases of LTLf formulas: Safety, Safety & coSafety, Safety & Fairness, Safety & Stability, Safety & GR(1). The case of mandatory stop: conceptual and practical implications.
-
-###### Symbolic techniques
-Basics of symbolic representation. Symbolic techniques for Planning and Synthesis.
-
-<!--##### Planning
-1. Introduction
-2. Preliminaries on fix points
-3. Deterministic domains
-4. Nondeterministic domains
-
-##### LTLf goals
-1. LTLf
-2. LTLf 2 Automata
-3. Deterministic Domains with LTLf goals
-4. Nondeterministic domains with LTLf goals
-
-##### LTL Synthesis
-1. LTL on infinite traces
-2. The Synthesis problem
-3. Solution to synthesis via Automata
-
-##### Games on graphs
-1. Introdution on 2 players (turn-based) games
-2. Relationship with Planning and Synthesis
-3. Reachability and safety games
-4. Safe-Reach games
-5. Buchi games
-
-##### Parity Games & Solutions
-
-##### Synthesis  for LTLf goals under LTL assumptions
-1. Assumptions: Safety, coSafety, Fairness, Stability, GR(1), General LTL
-2. Thm: E > phi ~ E -> phi
-3. Solving synthesis for LTLf goals under LTL assumptions (KR2020)
-
-##### Solutions for notable case of LTLf goals under LTL assumptions
-1. Safety
-2. Safety & coSafety
-3. Safety & Fairness
-4. Safety & Stability
-5. Safety & GR(1)
-
-##### Mandatory stop actions
-
-##### Symbolic techniques - basics
-
-##### Symbolic techniques for synthesis-->
+<!-- ###### Synthesis under assumptions -->
+<b>Synthesis under assumptions</b>:
+The environment represented as an LTL specification. The synthesis under assumption solved as synthesis of an implication formula. Direct and more effective solutions to the synthesis under assumption for notable cases of LTLf formulas: Safety, Safety & coSafety, Safety & Fairness, Safety & Stability, Safety & GR(1). Symbolic representation and techniques for Planning and Synthesis
 
 
-### Calendar (tentative)
+
+### Calendar
 
 
 <table style="width:105%">
