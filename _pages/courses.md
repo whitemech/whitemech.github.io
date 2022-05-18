@@ -14,7 +14,7 @@ permalink: /courses
 - **Type**: PhD Course
 - **Number of hours**: 20
 - **Class delivery mode**: Blended
-- **Dates**: From Monday 4th July to Friday 8th July from 14:00 to 18:00
+- **Dates**: From Monday 4th July to Friday 8th July from 14:00 to 18:00 CEST
 - **In presence location**: Room A7, Department of Computer, Automation, and Management Engineering, Sapienza University of Rome
 - **Online Location**: Zoom (link TBA)
 - **Exam**: Can be taken upon request.
