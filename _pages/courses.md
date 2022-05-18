@@ -12,7 +12,7 @@ permalink: /courses
 
 - **Instructors**: [Giuseppe De Giacomo](https://www.dis.uniroma1.it/degiacom/), [Antonio Di Stasio](https://www.dis.uniroma1.it/users/antonio_di-stasio), [Giuseppe Perelli](https://giuseppeperelli.github.io/), [Shufang Zhu](https://shufang-zhu.github.io/) 
 - **Type**: PhD Course
-- **Number of hours**: 20.
+- **Number of hours**: 20
 - **Class delivery mode**: Blended
 - **Dates**: From Monday 4th July to Friday 8th July from 14:00 to 18:00
 - **In presence location**: Room 7, Department of Computer, Automation, and Business Engineering, Sapienza University of Rome
