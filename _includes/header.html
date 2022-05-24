@@ -14,7 +14,7 @@
 					<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/"><i class="material-icons-round">view_module</i> Home</a>
 				</li>
 				<li {% if current[1] == 'research' %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
-					<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/research"><i class="material-icons-round">school</i> Research</a>
+					<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/research"><i class="material-icons-round">science</i> Research</a>
 				</li>
 				<li {% if current[1] == 'people' %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
 					<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/people"><i class="material-icons-round">group</i> People</a>
@@ -24,6 +24,9 @@
 				</li>
 				<li {% if current[1] == 'meetings' %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
 				<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/meetings"><i class="material-icons-round">question_answer</i> Meetings</a>
+				</li>
+				<li {% if current[1] == 'courses' %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
+				<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/courses"><i class="material-icons-round">school</i> Courses</a>
 				</li>
 				<li {% if current[1] == 'hiring' %}class="nav-item active"{% else %}class="nav-item"{% endif %}>
 				<a class="nav-link" href="{{ site.url }}{{ site.baseurl }}/hiring"><i class="material-icons-round">business_center</i> Hiring</a>
