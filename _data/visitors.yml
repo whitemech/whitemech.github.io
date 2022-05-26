@@ -1,4 +1,14 @@
 - name: Hugo Francon
-  photo: emanuela.jpg
+  affiliation: École Normale Supérieure de Rennes
+  position: MSc student
   info: Visitor
   email: hugo.francon@ens-rennes.fr
+  website:
+  stay: June 2022 -- July 2022
+- name: Sasha Rubin
+  affiliation: University of Sydney
+  position: Senior Lecturer
+  info: Visitor
+  email: sasha.rubin@sydney.edu.au
+  website: https://sasharubin.github.io
+  stay: June 2022
