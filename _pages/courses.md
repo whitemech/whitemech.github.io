@@ -19,7 +19,7 @@ permalink: /courses
 - **Course Type**: Lecture series.
 - **Registration**: Free but required (Please register here: [https://forms.gle/G6jj71kE92ZDqWU29](https://forms.gle/G6jj71kE92ZDqWU29))
 - **Class delivery modality**: Blended (Online and In Presence).
-- **In presence location**: Room 7, Department of Computer, Automation, and Business Engineering, Sapienza University of Rome
+- **In presence location**: Room A7, Department of Computer, Automation, and Management Engineering, Sapienza University of Rome
 - **Online Location**: Zoom (link TBA)
 - **Schedule**: From Monday 4th July to Friday 8th July from 14:00 to 18:00
 - **Language**: English
