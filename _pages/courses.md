@@ -97,6 +97,8 @@ The environment represented as an LTL specification. The synthesis under assumpt
 
 -----
 
-[<img src="static/images/logopic/logo-whitemech.svg" style="float:left" width="50%" alt="WhiteMech Logo">](https://whitemech.github.io)
-[<img src="static/images/logopic/TAILOR-logo.jpg" style="float:right" width="50%" alt="TAILOR Logo">](https://tailor-network.eu)
+[<img src="static/images/logopic/logo-whitemech.svg" style="float:left" width="25%" alt="WhiteMech Logo">](https://whitemech.github.io)
+[<img src="static/images/logopic/logo-AIDA.png" style="float:right" width="25%" alt="AIDA Logo">](https://tailor-network.eu/aida/)
+[<img src="static/images/logopic/TAILOR-logo.jpg" style="float:right" width="25%" alt="TAILOR Logo">](https://tailor-network.eu)
+[<img src="static/images/logopic/logo-sapienza.svg" style="float:left" width="25%" alt="WhiteMech Logo">](https://www.uniroma1.it/en/pagina-strutturale/home)
 
