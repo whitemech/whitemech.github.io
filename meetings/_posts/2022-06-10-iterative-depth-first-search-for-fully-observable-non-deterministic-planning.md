@@ -23,3 +23,9 @@ Dr. Ramon Fraga Pereira is a Research Associate at the Dipartimento di Ingegneri
 In 2020, he was recognized as having the best Ph.D. thesis in Artificial Intelligence in Brazil, CTDIAC at 9th the Brazilian Conference on Intelligent Systems (BRACIS).
 
 His research is in the field of Artificial Intelligence, particularly in the area of Automated Planning. Over the past years, he has been working on Goal and Plan Recognition techniques over several types of domain models.
+
+
+
+#### Material
+
+- [Video (restricted access)](https://uniroma1.zoom.us/rec/share/ONCjcr7d5DpFYBGOYpJzHwIQSHU0Uj6pb2HtrEjpNffHC2BIwFkG1HWd5tMKfQMn.gtUPrkBw0yVVcTMl?startTime=1654848650000)
