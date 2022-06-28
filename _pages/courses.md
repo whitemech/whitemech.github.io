@@ -20,7 +20,7 @@ permalink: /courses
 - **Registration**: Free but required (Please register here: [https://forms.gle/G6jj71kE92ZDqWU29](https://forms.gle/G6jj71kE92ZDqWU29))
 - **Class delivery modality**: Blended (Online and In Presence).
 - **In presence location**: Room A7, Department of Computer, Automation, and Management Engineering, Sapienza University of Rome
-- **Online Location**: Zoom (link TBA)
+- **Online Location**: Zoom (link: [https://uniroma1.zoom.us/j/81644497919?pwd=I2zu7FU2uauar9RYRgK1AJKr3Gydso.1](https://uniroma1.zoom.us/j/81644497919?pwd=I2zu7FU2uauar9RYRgK1AJKr3Gydso.1))
 - **Schedule**: From Monday 4th July to Friday 8th July from 14:00 to 18:00
 - **Language**: English
 - **Notes**: We, as instructors, will not give exams to other PhD curricula except Sapienza’s. Though we can informally discuss the topics in the course with anyone interested in them.
@@ -31,6 +31,12 @@ permalink: /courses
 All the students interested in attending the course are invited to register a the following link:
 
 [https://forms.gle/G6jj71kE92ZDqWU29](https://forms.gle/G6jj71kE92ZDqWU29)
+
+-----
+
+### Online Attendance
+To attend the course online, please visit the following zoom link:
+[https://uniroma1.zoom.us/j/81644497919?pwd=I2zu7FU2uauar9RYRgK1AJKr3Gydso.1](https://uniroma1.zoom.us/j/81644497919?pwd=I2zu7FU2uauar9RYRgK1AJKr3Gydso.1)
 
 -----
 
