@@ -21,7 +21,7 @@ permalink: /courses
 - **Class delivery modality**: Blended (Online and In Presence).
 - **In presence location**: Room A5, Department of Computer, Automation, and Management Engineering, Sapienza University of Rome
 - **Online Location**: Zoom (link: [https://uniroma1.zoom.us/j/81644497919?pwd=I2zu7FU2uauar9RYRgK1AJKr3Gydso.1](https://uniroma1.zoom.us/j/81644497919?pwd=I2zu7FU2uauar9RYRgK1AJKr3Gydso.1))
-- **Schedule**: From Monday 4th July to Friday 8th July from 14:00 to 18:00
+- **Schedule**: From Monday 4th July to Friday 8th July from 14:00 to 18:00 CEST (Central European Summer Time)
 - **Language**: English
 - **Notes**: We, as instructors, will not give exams to other PhD curricula except Sapienza’s. Though we can informally discuss the topics in the course with anyone interested in them.
 
