@@ -40,15 +40,15 @@ To attend the course online, please visit the following zoom link:
 
 -----
 
-### Lecture recordings
+### Lecture recordings and slides
 
-- Lecture 1 - De Giacomo: [Introduction to planning and synthesis](https://uniroma1.zoom.us/rec/share/9YCo5btMN-olbxRoBSJp-BqLgnmwJimmcSVIOWORPLMJzuUktxAFQ-ZGgVS7HIgq.UNAzKHPoGTTVOK6p?startTime=1656936892000)
+- Lecture 1 - De Giacomo: Introduction to planning and synthesis [Recording](https://uniroma1.zoom.us/rec/share/9YCo5btMN-olbxRoBSJp-BqLgnmwJimmcSVIOWORPLMJzuUktxAFQ-ZGgVS7HIgq.UNAzKHPoGTTVOK6p?startTime=1656936892000) - [Slides](game-theoretic-PhD-AI/lecture1.pdf) - [fixpoints-mucalc](game-theoretic-PhD-AI/fixpoints-mucalc.pdf)
 
-- Lecture 2 - Perelli: [Linear Temporal Logic](https://uniroma1.zoom.us/rec/share/9YCo5btMN-olbxRoBSJp-BqLgnmwJimmcSVIOWORPLMJzuUktxAFQ-ZGgVS7HIgq.UNAzKHPoGTTVOK6p?startTime=1656943663000)
+- Lecture 2 - Perelli: Linear Temporal Logic [Recording](https://uniroma1.zoom.us/rec/share/9YCo5btMN-olbxRoBSJp-BqLgnmwJimmcSVIOWORPLMJzuUktxAFQ-ZGgVS7HIgq.UNAzKHPoGTTVOK6p?startTime=1656943663000) - [Slides](game-theoretic-PhD-AI/lecture2.pdf)
 
-- Lecture 3 - De Giacomo: [Planning on deterministic and nondeterministc domains](https://uniroma1.zoom.us/rec/share/6MS2Wc-fc4mYkOEcdsL0uIaQsAhTnKPCvpCjx6GARMjAzeVnloq_Zqbrt0vvTDi9.Yg83DRg0bUtLtQBg?startTime=1657023025000)
+- Lecture 3 - De Giacomo: Planning on deterministic and nondeterministc domains [Recording](https://uniroma1.zoom.us/rec/share/6MS2Wc-fc4mYkOEcdsL0uIaQsAhTnKPCvpCjx6GARMjAzeVnloq_Zqbrt0vvTDi9.Yg83DRg0bUtLtQBg?startTime=1657023025000)- [Slides](game-theoretic-PhD-AI/lecture3.pdf)
 
-- Lecture 4 - Perelli: [LTL Model Checking](https://uniroma1.zoom.us/rec/share/6MS2Wc-fc4mYkOEcdsL0uIaQsAhTnKPCvpCjx6GARMjAzeVnloq_Zqbrt0vvTDi9.Yg83DRg0bUtLtQBg?startTime=1657030331000)
+- Lecture 4 - Perelli: LTL Model Checking [Recording](https://uniroma1.zoom.us/rec/share/6MS2Wc-fc4mYkOEcdsL0uIaQsAhTnKPCvpCjx6GARMjAzeVnloq_Zqbrt0vvTDi9.Yg83DRg0bUtLtQBg?startTime=1657030331000)- [Slides](game-theoretic-PhD-AI/lecture4.pdf)
 
 -----
 
