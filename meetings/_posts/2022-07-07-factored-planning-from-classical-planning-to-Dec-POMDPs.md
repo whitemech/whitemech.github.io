@@ -5,7 +5,7 @@ title: "Factored Planning: From Classical Planning to Dec-POMDPs"
 
 **When**:  Thursday, July 7, 2022, 12pm (CEST).
 
-**Where**: Room A7, DIAG & Zoom online, check the address in the Google Calendar Event.
+**Where**: Room A2, DIAG & Zoom online, check the address in the Google Calendar Event.
 
 **Topic**: Factored Planning: From Classical Planning to Dec-POMDPs
 
