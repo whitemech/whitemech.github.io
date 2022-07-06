@@ -40,6 +40,18 @@ To attend the course online, please visit the following zoom link:
 
 -----
 
+### Lecture recordings
+
+- Lecture 1 - De Giacomo: [Introduction to planning and synthesis](https://uniroma1.zoom.us/rec/share/9YCo5btMN-olbxRoBSJp-BqLgnmwJimmcSVIOWORPLMJzuUktxAFQ-ZGgVS7HIgq.UNAzKHPoGTTVOK6p?startTime=1656936892000)
+
+- Lecture 2 - Perelli: [Linear Temporal Logic](https://uniroma1.zoom.us/rec/share/9YCo5btMN-olbxRoBSJp-BqLgnmwJimmcSVIOWORPLMJzuUktxAFQ-ZGgVS7HIgq.UNAzKHPoGTTVOK6p?startTime=1656943663000)
+
+- Lecture 3 - De Giacomo: [Planning on deterministic and nondeterministc domains](https://uniroma1.zoom.us/rec/share/6MS2Wc-fc4mYkOEcdsL0uIaQsAhTnKPCvpCjx6GARMjAzeVnloq_Zqbrt0vvTDi9.Yg83DRg0bUtLtQBg?startTime=1657023025000)
+
+- Lecture 4 - Perelli: [LTL Model Checking](https://uniroma1.zoom.us/rec/share/6MS2Wc-fc4mYkOEcdsL0uIaQsAhTnKPCvpCjx6GARMjAzeVnloq_Zqbrt0vvTDi9.Yg83DRg0bUtLtQBg?startTime=1657030331000)
+
+-----
+
 ### Abstract
 
 This course introduces AI planning and program synthesis for tasks (goals) expressed over finite traces instead of states. Specifically, borrowing from Formal Methods, we will consider tasks and environment specifications expressed in LTL and its finite trace variant LTLf. We will review the main results and algorithmic techniques to handle planning in nondeterministic domains. Then, we will draw connections with verification, and reactive synthesis, together with their game-theoretic solution techniques. The main catch is that working with these logics can be based on devising suitable 2-players games and finding strategies, i.e., plans, to win them. Specifically, we will cover the following topics: Planning in nondeterministic domain, Temporal Logics, LTL, LTLf, Game-theoretic Techniques, Safety Games, Reachability Games, Games for LTL/LTLf objectives, and Reactive Synthesis. This course is partially based on the work carried out in [ERC Advanced Grant WhiteMech](https://whitemech.github.io) and [EU ICT-48 TAILOR](https://tailor-network.eu).
