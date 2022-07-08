@@ -42,13 +42,38 @@ To attend the course online, please visit the following zoom link:
 
 ### Lecture recordings and slides
 
-- Lecture 1 - De Giacomo: Introduction to planning and synthesis [Recording](https://uniroma1.zoom.us/rec/share/9YCo5btMN-olbxRoBSJp-BqLgnmwJimmcSVIOWORPLMJzuUktxAFQ-ZGgVS7HIgq.UNAzKHPoGTTVOK6p?startTime=1656936892000) - [Slides](courses/game-theoretic-PhD-AI/lecture1.pdf) - [fixpoints-mucalc](courses/game-theoretic-PhD-AI/fixpoints-mucalc.pdf)
+- Lecture 1 - De Giacomo: Introduction to planning and synthesis
+[Video](https://drive.google.com/file/d/1MwRxIWWJxt1qD5teElVX4MEqNPsRyhrF/view?usp=sharing) -
+[Slides](https://drive.google.com/file/d/1MB1XkifDpT6HHxyX2AJVeySH-cnUs5hQ/view?usp=sharing),
+[fixpoints-mucalc](https://drive.google.com/file/d/10BYf84DH2cuS4_RusbhNz9zmmwfWCckC/view?usp=sharing)
 
-- Lecture 2 - Perelli: Linear Temporal Logic [Recording](https://uniroma1.zoom.us/rec/share/9YCo5btMN-olbxRoBSJp-BqLgnmwJimmcSVIOWORPLMJzuUktxAFQ-ZGgVS7HIgq.UNAzKHPoGTTVOK6p?startTime=1656943663000) - [Slides](courses/game-theoretic-PhD-AI/lecture2.pdf)
+- Lecture 2 - Perelli: Linear Temporal Logic
+[Video](https://drive.google.com/file/d/1JPf923cYowPqZo8G7fIykZbxFklGHIGV/view?usp=sharing) -
+[Slides](https://drive.google.com/file/d/1g0Sbgrhqjg0f-jahd-SCfXZ472BklFnE/view?usp=sharing)
 
-- Lecture 3 - De Giacomo: Planning on deterministic and nondeterministc domains [Recording](https://uniroma1.zoom.us/rec/share/6MS2Wc-fc4mYkOEcdsL0uIaQsAhTnKPCvpCjx6GARMjAzeVnloq_Zqbrt0vvTDi9.Yg83DRg0bUtLtQBg?startTime=1657023025000)- [Slides](courses/game-theoretic-PhD-AI/lecture3.pdf)
+- Lecture 3 - De Giacomo: Planning on deterministic and nondeterministc domains
+[Video](https://drive.google.com/file/d/1yeSGBgHR_RlBe_Y94scbcyXXBtBoBBDW/view?usp=sharing) -
+[Slides](https://drive.google.com/file/d/1VHYwmxUfP0FESMSkipQcSjUMm-3p8Jc7/view?usp=sharing)
 
-- Lecture 4 - Perelli: LTL Model Checking [Recording](https://uniroma1.zoom.us/rec/share/6MS2Wc-fc4mYkOEcdsL0uIaQsAhTnKPCvpCjx6GARMjAzeVnloq_Zqbrt0vvTDi9.Yg83DRg0bUtLtQBg?startTime=1657030331000)- [Slides](courses/game-theoretic-PhD-AI/lecture4.pdf)
+- Lecture 4 - Perelli: LTL Model Checking
+[Video](https://drive.google.com/file/d/1ZiWytg8UnqqBx_DBdbe_RiBxZm1oE_5F/view?usp=sharing) -
+[Slides](https://drive.google.com/file/d/1NjSl_6_UUdBS78Vy3aDM4LZdIlGnr-Ll/view?usp=sharing)
+
+- Lecture 5 - De Giacomo: Planning with LTLf goals
+[Video](https://drive.google.com/file/d/1BL65Ek5Igp6cDYjEsml04tyY5rLCtzLh/view?usp=sharing) -
+[Slides](https://drive.google.com/file/d/1kSbeYGzk7EA6-q41a-m5O7KkCyS6xrGs/view?usp=sharing)
+
+- Lecture 6 - Perelli: Games on graphs
+[Video](https://drive.google.com/file/d/1v2JrYcKs4-QEigKUHzdxXefgN9BAzeTO/view?usp=sharing) -
+[Slides](https://drive.google.com/file/d/14dJKEECvO649ODBjL87vU30gmhZ_XGCl/view?usp=sharing)
+
+- Lecture 7 - Di Stasio: Synthesis for LTLf goals under LTL specifications
+[Video](https://drive.google.com/file/d/1gj90tuLplY2r5kerxsUSqgMMc9OZFgUe/view?usp=sharing) -
+[Slides](https://drive.google.com/file/d/18SEueN4vFqPH65j5frurv9UTffgyHYrs/view?usp=sharing)
+
+- Lecture 8 - Zhu: Solution for notable cases of LTLf goals under LTL specifications
+[Video](https://drive.google.com/file/d/16mmpdw_EZoqe1zNLVYz1AA3koqThhFHL/view?usp=sharing) -
+[Slides](https://drive.google.com/file/d/1qfJtPvx4xoYGoWgMLJlgFklt9biIZCbk/view?usp=sharing)
 
 -----
 
