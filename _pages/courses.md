@@ -75,6 +75,14 @@ To attend the course online, please visit the following zoom link:
 [Video](https://drive.google.com/file/d/16mmpdw_EZoqe1zNLVYz1AA3koqThhFHL/view?usp=sharing) -
 [Slides](https://drive.google.com/file/d/1qfJtPvx4xoYGoWgMLJlgFklt9biIZCbk/view?usp=sharing)
 
+- Lecture 9 - Zhu: Symbolic techniques
+[Video](https://drive.google.com/file/d/1lL7kcUaI2zCiymOJqObO5HM5y3EbU_O1/view?usp=sharing) -
+[Slides](https://drive.google.com/file/d/1UUW-HgJ_CgiMFufWic1C5Z842nRMuaUZ/view?usp=sharing)
+
+- Lecture 10 - Di Stasio: Parity Games
+[Video](https://drive.google.com/file/d/1_lEfVf02q6AB9FDl0VIFPxW168A4wFJO/view?usp=sharing) -
+[Slides](https://drive.google.com/file/d/1dqOk3wIaDeKivOI97Pf_Ua9aK_hp1RLn/view?usp=sharing)
+
 -----
 
 ### Abstract
