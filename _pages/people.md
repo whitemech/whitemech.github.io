@@ -212,4 +212,42 @@ We are currently looking for new PhD students, Postdocs, and Master students to 
 </div>
 </div>
 {:/}  
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+{% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+# Visiting Scholars
+
+{% assign number_printed = 0 %}
+{% for member in site.data.visitors %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+{% if even_odd == 0 %}
+<div class="row  mt-4">
+{% endif %}
+
+{::nomarkdown}
+<ul>
+    <li>
+        <a class="h5" href="{% if member.website %}{{ member.website }}{% endif %}" >{{ member.name }}</a>, {{ member.position }} at the {{ member.affiliation }} ({{ member.stay }})
+    </li>
+</ul>
+
+{:/}  
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 {% endfor %}
