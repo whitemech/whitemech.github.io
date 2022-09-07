@@ -19,3 +19,7 @@ In recent years, generalized planning has become an important thread in planning
 #### Short Bio
 
 Prof. Blai Bonet is retired professor from the Computer Science Department at Universidad Simon Bolivar, Venezuela, and currently a research associate at the Universitat Pompeu Fabra, Barcelona, Spain. He received his Ph.D. degree in computer science from the University of California, Los Angeles. His research interests are in the areas of automated planning, search and knowledge representation, deep learning, and theory of computation. Blai has received several best paper awards or honorable mentions, including the 2009 and 2014 ICAPS Influential Paper Awards, and he is a co-author of the book "A Concise Introduction to Models and Methods for Automated Planning". He has served as associate editor of Artificial Intelligence and the Journal of Artificial Intelligence Research (JAIR), conference co-chair of ICAPS-12, program co-chair of AAAI-15, and has been a member of the Executive Council for ICAPS and AAAI.
+
+#### Material
+
+- [Video (restricted access)](https://uniroma1.zoom.us/rec/share/Pgi5WgpoRCj6TkCuysAUIrnvJQBAIYewCiZLY5aP0rD5CxSjlJQKqIzGoVcuF3iX.IdvObU7T1dodXq_P?startTime=1662545089000)
