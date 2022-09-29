@@ -15,7 +15,8 @@ permalink: /gallery
     <ol class="carousel-indicators">
         {% assign counter = 0 %}
         {% for image in site.static_files %}
-            {% if image.path contains 'images/gallery/' | append: gallery.folder %}
+            {% assign path = 'images/gallery/' | append: gallery.folder %}
+            {% if image.path contains path %}
                 {% if counter == 0 %}
                     <li data-target="#carousel-{{ gallery.folder }}" data-slide-to="{{ counter }}" class="active"></li>
                 {% else %}
@@ -28,7 +29,8 @@ permalink: /gallery
     <div class="carousel-inner">
         {% assign counter = 0 %}
         {% for image in site.static_files %}
-            {% if image.path contains 'images/gallery/' | append: gallery.folder %}
+            {% assign path = 'images/gallery/' | append: gallery.folder %}
+            {% if image.path contains path %}
                 {% if counter == 0 %}
                     <div class="carousel-item active">
                     <img src="{{ site.baseurl }}{{ image.path }}" class="d-block w-100" alt="...">
