@@ -24,3 +24,8 @@ The talk is based on following two papers:
 #### Short Bio
 
 Priyanka Golia is Ph.D. candidate at IITK, India and NUS, Singapore. Her research interest lies in the area of functional synthesis, constrained sampling, and knowledge compilation. She is the lead designer of the state-of-the-art functional synthesis engine Manthan, which takes advantage of advances in machine learning, constrained sampling, and automated reasoning to synthesize Boolean functions efficiently. 
+
+
+#### Material
+
+- [Video (restricted access)](https://uniroma1.zoom.us/rec/share/xqncIobV_bXs-eG1iMmaaiFBKdGHH78kbU91qJ95oxBhAOaKUY0UWtJimn29RmcW.9SQ7ra-N3nSOZdZo?startTime=1664442357000)

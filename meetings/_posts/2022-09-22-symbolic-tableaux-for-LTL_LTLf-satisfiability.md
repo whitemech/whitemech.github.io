@@ -19,3 +19,7 @@ Tableau methods are among the first techniques studied to solve the satisfiabili
 #### Short Bio
 
 Nicola Gigante got his PhD at the University of Udine in 2019, and after a couple of years there as a postdoc, he is now a researcher at the Free University of Bozen-Bolzano. His main research interests lie at the intersection between AI and formal methods, with a focus on temporal reasoning, including temporal logics, planning, and reactive synthesis.
+
+#### Material
+
+- [Video (restricted access)](https://uniroma1.zoom.us/rec/share/EcQQ_b7Y6de-spO48ERbhLKCV-5lpoqPwdtnVf_daFgiSikhSA37GECe256w2cbv.MEUNcK9bBDesr5Ex?startTime=1663837716000)
