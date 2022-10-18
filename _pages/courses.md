@@ -8,6 +8,93 @@ permalink: /courses
 
 
 
+# Non-Markov Decision Processes and Reinforcement Learning
+
+<p align="center" style="font-size:200%" > 7-21 November 2022 </p>
+
+- **Instructors**: [Giuseppe De Giacomo](https://www.diag.uniroma1.it/degiacom/), [Luca Iocchi](https://sites.google.com/a/dis.uniroma1.it/iocchi/home), [Fabio Patrizi](http://www.diag.uniroma1.it/patrizi/), [Alessandro Ronca](https://ronca.me/) (Sapienza University of Rome)
+- **Guest Lecturers**: [Roberto Cipollone](https://www.diag.uniroma1.it/users/roberto_cipollone), [Gabriel Paludo Licks](http://diag.uniroma1.it/user/2077), [Elena Umili](https://www.diag.uniroma1.it/users/elena_umili) (Sapienza University of Rome)
+- **Host Institutions**: Sapienza University with the support of [ICT-48 TAILOR](https://tailor-network.eu) and [AIDA](https://tailor-network.eu/aida)
+- **Level**: Ph.D.
+- **Course duration**: 20 hours.
+- **Course Type**: Lecture series.
+- **Registration**: Free but required (Please register here: [https://forms.gle/Nua6Sef2xgmtsbGs8](https://forms.gle/Nua6Sef2xgmtsbGs8))
+- **Class delivery modality**: Blended (Online and In Presence).
+- **In presence location**: Room B203, Department of Computer, Automation, and Management Engineering, Sapienza University of Rome
+- **Online Location**: Zoom (link: TBA)
+- **Schedule**: Every Monday and Friday from 11:00 to 13:00 CET (Slot 1) and from 14:00 to 16:00 CET (Slot 2). 
+- **Language**: English
+- **Notes**: We, as instructors, will not give exams to other PhD curricula except Sapienza’s. Though we can informally discuss the topics in the course with anyone interested in them.
+
+-----
+
+### Registration
+All the students interested in attending the course are invited to register a the following link:
+
+[https://forms.gle/Nua6Sef2xgmtsbGs8](https://forms.gle/Nua6Sef2xgmtsbGs8)
+
+-----
+
+### Online Attendance
+To attend the course online, please visit the following zoom link:
+TBA
+
+-----
+
+### Abstract
+
+We present non-Markov decision processes, where rewards and dynamics can depend on the history of events. This is contrast with Markov Decision Processes, where the dependency is limited to the last state and action. We study how to specify non-Markov reward functions and dynamics functions using Linear Temporal Logic on finite traces. The resulting decision processes are called Regular Decision Processes, and we show how to solve them by extending solution techniques for Markov Decision Processes. Then, we turn to Reinforcement Learning. First, we study the Restraining Bolt, a device that enables an agent to learn a specified non-Markov behaviour while relying on the Markov property. Second, we study how an agent can achieve an optimal behaviour in a non-Markov domain, by learning a finite-state automaton that describes rewards and dynamics. Specifically we will cover the following topics: MDP with Non-Markov Rewards, Non-Markov Dynamics, Regular Decision Processes, Restraining Bolts, Linear Time Logic on finite traces as a reward/dynamics specification language, Reinforcement Learning, Deep Reinforcement Learning, Automata Learning. This course is partially based on the work carried out in [ERC Advanced Grant WhiteMech](https://whitemech.github.io) and [EU ICT-48 TAILOR](https://tailor-network.eu).
+
+-----
+
+### Calendar and course content
+
+
+<table class="table table-responsive">
+  <thead>
+    <tr>
+      <th style="border-top: none;">Date</th>
+      <th style="border-top: none;">Slot 1 (11:00 to 13:00 CET)</th>
+      <th style="border-top: none;">Slot 2 (14:00 to 16:00 CET)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Monday 7th November</td>
+      <td>Markov Decision Processes (MDPs), discounting, absorbing states, factored states (fluents or features), value iteration, policy iteration (Iocchi)</td>
+      <td>Markov Reinforcement Learning, RMax, Q-learning, SARSA (Patrizi)</td>
+    </tr>
+    <tr>
+      <td>Friday 11th November</td>
+      <td>Linear Temporal Logic on Finite Traces (LTLf) and automata (De Giacomo)</td>
+      <td>Non-Markov Reward Decision Process (NMRDPs), restraining bolts, reward machines (Patrizi)</td>
+    </tr>
+    <tr>
+      <td>Monday 14th November </td>
+      <td>Non-Markov Decision Processes (NMDPs), Regular Decision Processes (RDPs) and their relationship with Partially-Observable Markov Decision Processes (POMDPs) (Ronca) </td>
+      <td>Automata learning and model learning (Paludo) </td>
+    </tr>
+    <tr>
+      <td>Friday 18th November</td>
+      <td>Regular Decision Processes (RDPs), reinforcement learning in RDPs (Ronca) </td>
+      <td>Markov Deep Reinforcement Learning (Umili) </td>
+    </tr>
+    <tr>
+      <td>Monday 21st November</td>
+      <td>Performance guarantees in non-Markov reinforcement learning (Ronca)</td>
+      <td>Non-Markov Deep Reinforcement Learning (Cipollone)</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br>
+
+-----
+
+<br>
+
+
 # Game-Theoretic Approach to Planning and Synthesis
 
 <p align="center" style="font-size:200%" > 4-8 July 2022 </p>
@@ -145,11 +232,13 @@ The environment represented as an LTL specification. The synthesis under environ
   </tbody>
 </table>
 
+<br>
 
 -----
+
+<br>
 
 [<img src="{{ site.url }}{{ site.baseurl }}/static/images/logopic/logo-whitemech.svg" style="float:left" width="25%" alt="WhiteMech Logo">](https://whitemech.github.io)
 [<img src="{{ site.url }}{{ site.baseurl }}/static/images/logopic/logo-AIDA.png" style="float:right" width="25%" alt="AIDA Logo">](https://tailor-network.eu/aida/)
 [<img src="{{ site.url }}{{ site.baseurl }}/static/images/logopic/TAILOR-logo.jpg" style="float:right" width="25%" alt="TAILOR Logo">](https://tailor-network.eu)
 [<img src="{{ site.url }}{{ site.baseurl }}/static/images/logopic/logo-sapienza.svg" style="float:left" width="25%" alt="WhiteMech Logo">](https://www.uniroma1.it/en/pagina-strutturale/home)
-
