@@ -99,7 +99,7 @@ We present non-Markov decision processes, where rewards and dynamics can depend 
 
 <p align="center" style="font-size:200%" > 4-8 July 2022 </p>
 
-- **Instructors**: [Giuseppe De Giacomo](https://www.dis.uniroma1.it/degiacom/), [Antonio Di Stasio](https://www.dis.uniroma1.it/users/antonio_di-stasio), [Giuseppe Perelli](https://giuseppeperelli.github.io/), [Shufang Zhu](https://shufang-zhu.github.io/) (Sapienza University of Rome)
+- **Instructors**: [Giuseppe De Giacomo](https://www.dis.uniroma1.it/degiacom/), [Antonio Di Stasio](https://antoniodistasio.github.io), [Giuseppe Perelli](https://giuseppeperelli.github.io/), [Shufang Zhu](https://shufang-zhu.github.io/) (Sapienza University of Rome)
 - **Host Institutions**: Sapienza University & ICT-48 TAILOR
 - **Level**: Postgraduate.
 - **Course duration**: 20 hours.
