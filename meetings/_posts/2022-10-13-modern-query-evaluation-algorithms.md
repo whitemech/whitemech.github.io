@@ -22,3 +22,9 @@ Since 2011 there has been a new understanding of the complexity of join queries.
 Nadezda Knorozova, or simply Nadia, is a Ph.D. student at the University of Zurich, with the background in relational databases with both academic and industry experience. She worked on the commercial Datalog engine called Logicblox, covering many aspects of the system: in-database machine learning, which implements machine learning algorithms that are able to exploit relational structure of the data; the query optimizer, a search algorithm for finding the best join order; join and aggregate query evaluation. 
 
 Nadezda received her bachelor degree in Computer Science from the University of Minnesota. There, in collaboration with the database group, she has developed a novel decomposition-based algorithm for computing Voronoi diagrams. She received her Masters degree in Computer Science from the University of Oxford, with a thesis on factorized representations of disequality joins. 
+
+
+#### Material
+
+- [Video (restricted access)](https://uniroma1.zoom.us/rec/share/1tzxElQ9n8c984skfeALHxNFJwI7Q7UewBYUvH5r9U7hzELRnLPXedU6o5iwiwIm.WkCKoFWi6_0u7qo1?startTime=1665666193000)
+- [Slides (restricted access)](https://drive.google.com/file/d/1Wjf_qus7SPLD8aMdGjqVZZscwrYOjpth/view?usp=sharing)
