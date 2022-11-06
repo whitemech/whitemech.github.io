@@ -21,7 +21,7 @@ permalink: /courses
 - **Registration**: Free but required (Please register here: [https://forms.gle/Nua6Sef2xgmtsbGs8](https://forms.gle/Nua6Sef2xgmtsbGs8))
 - **Class delivery modality**: Blended (Online and In Presence).
 - **In presence location**: Room B203, Department of Computer, Automation, and Management Engineering, Sapienza University of Rome
-- **Online Location**: Zoom (link: TBA)
+- **Online Location**: Zoom (link: [https://uniroma1.zoom.us/j/95223920362?pwd=b3N3ZkE4Qmxjd0J5UDRoNW1OQU1SZz09](https://uniroma1.zoom.us/j/95223920362?pwd=b3N3ZkE4Qmxjd0J5UDRoNW1OQU1SZz09))
 - **Schedule**: Every Monday and Friday from 11:00 to 13:00 CET (Slot 1) and from 14:00 to 16:00 CET (Slot 2). 
 - **Language**: English
 - **Notes**: We, as instructors, will not give exams to other PhD curricula except Sapienza’s. Though we can informally discuss the topics in the course with anyone interested in them.
@@ -37,7 +37,7 @@ All the students interested in attending the course are invited to register a th
 
 ### Online Attendance
 To attend the course online, please visit the following zoom link:
-TBA
+[https://uniroma1.zoom.us/j/95223920362?pwd=b3N3ZkE4Qmxjd0J5UDRoNW1OQU1SZz09](https://uniroma1.zoom.us/j/95223920362?pwd=b3N3ZkE4Qmxjd0J5UDRoNW1OQU1SZz09)
 
 -----
 
@@ -61,8 +61,8 @@ We present non-Markov decision processes, where rewards and dynamics can depend 
   <tbody>
     <tr>
       <td>Monday 7th November</td>
-      <td>Markov Decision Processes (MDPs), discounting, absorbing states, factored states (fluents or features), value iteration, policy iteration (Iocchi)</td>
-      <td>Markov Reinforcement Learning, RMax, Q-learning, SARSA (Patrizi)</td>
+      <td>Markov Decision Processes (MDPs), discounting, absorbing states, factored states (fluents or features), value iteration, policy iteration (Patrizi)</td>
+      <td>Markov Reinforcement Learning, RMax, Q-learning, SARSA (Iocchi)</td>
     </tr>
     <tr>
       <td>Friday 11th November</td>
