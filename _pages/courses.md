@@ -61,8 +61,20 @@ We present non-Markov decision processes, where rewards and dynamics can depend 
   <tbody>
     <tr>
       <td>Monday 7th November</td>
-      <td>Markov Decision Processes (MDPs), discounting, absorbing states, factored states (fluents or features), value iteration, policy iteration (Patrizi)</td>
-      <td>Markov Reinforcement Learning, RMax, Q-learning, SARSA (Iocchi)</td>
+      <td>
+        Markov Decision Processes, discounting, absorbing states, value iteration, policy iteration (Patrizi)
+        <br>
+        <strong>Material: </strong>
+        <a href="https://drive.google.com/file/d/1vmefjEj5OgO6JufBmWgfgG99JXqUv4GA/view?usp=sharing"> Video</a>
+        <a href="https://drive.google.com/file/d/1GI3hxbWWhLGw06_2p-6dST-FiafHNKBw/view?usp=sharing">Slides</a>
+      </td>
+      <td>
+        Markov Reinforcement Learning, exploration/exploitation, Q-learning, SARSA (Iocchi)
+        <br>
+        <strong>Material: </strong>
+        <a href="https://drive.google.com/file/d/1TVG4PP7fM33k_DsS33aGvaXLZfTuXqPp/view?usp=sharing">Video</a>
+        <a href="https://drive.google.com/file/d/19h3f4nkQRl1Nhtx_jkdk_iz3_Lq25bNM/view?usp=sharing">Slides</a>
+      </td>
     </tr>
     <tr>
       <td>Friday 11th November</td>
