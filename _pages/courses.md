@@ -78,13 +78,39 @@ We present non-Markov decision processes, where rewards and dynamics can depend 
     </tr>
     <tr>
       <td>Friday 11th November</td>
-      <td>Linear Temporal Logic on Finite Traces (LTLf) and automata (De Giacomo)</td>
-      <td>Non-Markov Reward Decision Process (NMRDPs), restraining bolts, reward machines (Patrizi)</td>
+      <td>
+        Linear Temporal Logic on Finite Traces (LTLf) and automata (De Giacomo)
+        <br>
+        <strong>Material: </strong>
+        <a href="https://drive.google.com/file/d/1pjnrdKLvGfjmxGEWV4Ntr3wPHjXmmvMQ/view?usp=sharing">Video</a>
+        <a href="https://drive.google.com/file/d/1xZYb6JTASdDowiQGydkmr36LV4tq7Io6/view?usp=sharing">Slides</a>
+      </td>
+      <td>
+        Non-Markov Reward Decision Process (NMRDPs), restraining bolts, reward machines (Patrizi)
+        <br>
+        <strong>Material: </strong>
+        <a href="https://drive.google.com/file/d/1EWmAls1mz0DNqfyIbcK2yVZlK2D5O1oJ/view?usp=sharing">Video</a>
+        <a href="https://drive.google.com/file/d/1I41nzA_8r5NvR0ABNHsUY5jPSu5Y7vuF/view?usp=sharing">Slides (1)</a>
+        <a href="https://drive.google.com/file/d/1Ucf_UBbbTkW4hQPkI2CzuO19Hc6N6kUW/view?usp=sharing">Slides (2)</a>
+      </td>
     </tr>
     <tr>
       <td>Monday 14th November </td>
-      <td>Non-Markov Decision Processes (NMDPs), Regular Decision Processes (RDPs) and their relationship with Partially-Observable Markov Decision Processes (POMDPs) (Ronca) </td>
-      <td>Automata learning and model learning (Paludo) </td>
+      <td>
+        Non-Markov Decision Processes (NMDPs), Regular Decision Processes (RDPs) and their relationship with Partially-Observable Markov Decision Processes (POMDPs) (Ronca and Cipollone)
+        <br>
+        <strong>Material: </strong>
+        <a href="https://drive.google.com/file/d/1cNHnBYqRp3A8s1C_a0-sPGpIRhga39K1/view?usp=sharing">Video</a>
+        <a href="https://drive.google.com/file/d/1wnigQcK7TbwB6ev-gVAK0Ka7gFH49iGN/view?usp=sharing">Slides (1)</a>
+        <a href="https://drive.google.com/file/d/1zMk7EGM6Q14kdONXhuXK0zqLHHRo09qj/view?usp=sharing">Slides (2)</a>
+      </td>
+      <td>
+        Automata learning and model learning (Paludo)
+        <br>
+        <strong>Material: </strong>
+        <a href="https://drive.google.com/file/d/1c5ZhzkqCAFcxZTYlsKF0cQ7kwYrh8SXv/view?usp=share_link">Video</a>
+        <a href="https://drive.google.com/file/d/1Y1NZPLkMkiMjdvFFsW27mkx2GIU1xLh0/view?usp=sharing">Slides</a>
+      </td>
     </tr>
     <tr>
       <td>Friday 18th November</td>
