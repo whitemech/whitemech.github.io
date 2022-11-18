@@ -108,14 +108,26 @@ We present non-Markov decision processes, where rewards and dynamics can depend 
         Automata learning and model learning (Paludo)
         <br>
         <strong>Material: </strong>
-        <a href="https://drive.google.com/file/d/1c5ZhzkqCAFcxZTYlsKF0cQ7kwYrh8SXv/view?usp=share_link">Video</a>
+        <a href="https://drive.google.com/file/d/1c5ZhzkqCAFcxZTYlsKF0cQ7kwYrh8SXv/view?usp=sharing">Video</a>
         <a href="https://drive.google.com/file/d/1Y1NZPLkMkiMjdvFFsW27mkx2GIU1xLh0/view?usp=sharing">Slides</a>
       </td>
     </tr>
     <tr>
       <td>Friday 18th November</td>
-      <td>Regular Decision Processes (RDPs), reinforcement learning in RDPs (Ronca) </td>
-      <td>Markov Deep Reinforcement Learning (Umili) </td>
+      <td>
+        Regular Decision Processes (RDPs), reinforcement learning in RDPs (Ronca)
+        <br>
+        <strong>Material: </strong>
+        <a href="https://drive.google.com/file/d/1PhDH4QkYEKzY0bJ5rG8tb2rqjsSYNY8T/view?usp=sharing">Video</a>
+        <a href="https://drive.google.com/file/d/15vquSWj7sMQrPQ08GRXs_jre8VoPiXQU/view?usp=sharing">Slides</a>
+      </td>
+      <td>
+        Markov Deep Reinforcement Learning (Umili)
+        <br>
+        <strong>Material: </strong>
+        <a href="https://drive.google.com/file/d/1zT0ZKACDuNbrvE68uDX3OAi20Kf9-bhn/view?usp=sharing">Video</a>
+        <a href="https://drive.google.com/file/d/1cVlhlrhdQ_AWsjZAs7kzoiLJN9nkNGss/view?usp=sharing">Slides</a>
+      </td>
     </tr>
     <tr>
       <td>Monday 21st November</td>
