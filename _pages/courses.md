@@ -131,8 +131,22 @@ We present non-Markov decision processes, where rewards and dynamics can depend 
     </tr>
     <tr>
       <td>Monday 21st November</td>
-      <td>Performance guarantees in non-Markov reinforcement learning (Ronca)</td>
-      <td>Non-Markov Deep Reinforcement Learning (Cipollone)</td>
+      <td>
+        Performance guarantees in non-Markov reinforcement learning (Ronca)
+        <br>
+        <strong>Material: </strong>
+        <a href="https://drive.google.com/file/d/1wldeLGi2Dz21aaB7Vl8AQ8ixBG1ZssA4/view?usp=sharing">Video</a>
+        <a href="https://drive.google.com/file/d/1kh7WWzY2wukTBnLkfYEtgsmlggBYb6b2/view?usp=sharing">Slides</a>
+      </td>
+      <td>
+        Non-Markov Deep Reinforcement Learning (Cipollone)
+        <br>
+        <strong>Material: </strong>
+        <a href="https://drive.google.com/file/d/1A9cgk7mnm5SmZ103RSOVVvJBHG52YiBF/view?usp=sharing">Video</a>
+        <a href="https://drive.google.com/file/d/1tybjrOwk86ZUfEKgx2oJuNdZpKJ3oSjS/view?usp=sharing">Slides</a>
+      </td>
+      <td></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
