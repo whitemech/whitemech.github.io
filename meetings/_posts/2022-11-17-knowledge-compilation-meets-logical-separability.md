@@ -21,3 +21,7 @@ The talk is based on the paper:
 #### Short Bio
 Junming Qiu is a MSc student at Jinan University, China. His main research interests lie in automated reasoning, including knowledge compilation and belief change.
 
+
+#### Material
+
+- [Video (restricted access)](https://uniroma1.zoom.us/rec/share/RBcA2Nu1iXiwfngCjZ1-yfJb7fl8jgcQVlcriqMRo8aL6ZLA37no9ZXZGV3bCZs0.Afx2Try5pbxzra6O)
