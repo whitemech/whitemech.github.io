@@ -170,6 +170,24 @@ We are currently looking for new PhD students, Postdocs, and Master students to 
 </div>
 {% endif %}
 
+# Alumni
+
+<div class="row  mt-4">
+
+{% for member in site.data.alumni %}
+{::nomarkdown}
+<ul>
+    <li>
+        <a class="h5" href="{% if member.website %}{{ member.website }}{% endif %}" >{{ member.name }}</a>, now {{ member.position }} at {{ member.affiliation }} ({{ member.email }})
+    </li>
+</ul>
+{:/}
+
+{% endfor %}
+
+</div>
+
+
 # Administration
 {% assign number_printed = 0 %}
 {% for member in site.data.admin_members %}
@@ -227,27 +245,18 @@ We are currently looking for new PhD students, Postdocs, and Master students to 
 
 # Visiting Scholars
 
-{% assign number_printed = 0 %}
-{% for member in site.data.visitors %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-
-{% if even_odd == 0 %}
 <div class="row  mt-4">
-{% endif %}
 
+{% for member in site.data.visitors %}
 {::nomarkdown}
 <ul>
     <li>
         <a class="h5" href="{% if member.website %}{{ member.website }}{% endif %}" >{{ member.name }}</a>, {{ member.position }} at the {{ member.affiliation }} ({{ member.stay }})
     </li>
 </ul>
-
+<br>
 {:/}  
-{% assign number_printed = number_printed | plus: 1 %}
-
-{% if even_odd == 1 %}
-</div>
-{% endif %}
 
 {% endfor %}
+
+</div>

@@ -1,0 +1,21 @@
+- name: Marco Favorito
+  affiliation: Bank of Italy
+  position: Researcher
+  info: Alumni
+  email: marco.favorito@gmail.com
+  website: https://marcofavorito.me/
+
+- name: Ramon Fraga Pereira
+  affiliation: University of Manchester, UK
+  position: Lecturer
+  info: Alumni
+  email: ramon.fragapereira@manchester.ac.uk
+  website: https://www.ramonfpereira.com/
+
+- name: Giuseppe Perelli
+  affiliation: Sapienza University of Rome
+  position: Assistant Professor (RTD-B)
+  info: Alumni
+  email: perelli@di.uniroma1.it
+  website: https://giuseppeperelli.github.io/
+

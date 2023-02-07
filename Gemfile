@@ -7,3 +7,4 @@ group :jekyll_plugins do
    gem "jekyll-seo-tag", "~> 2.6"
    gem "jekyll-sitemap", "~> 1.4"
 end
+gem "webrick", "~> 1.8"

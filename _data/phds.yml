@@ -1,6 +1,6 @@
 - name: Damiano Brunori
   photo: damiano.jpg
-  info: PhD Student, 2nd year
+  info: PhD Student, 3rd year
   email: brunori@diag.uniroma1.it
   website:
   linkedin:
@@ -9,7 +9,7 @@
 
 - name: Francesco Chiariello
   photo: francesco-c.jpg
-  info: PhD Student, 3rd year
+  info: PhD Student, 4th year
   email: chiariello@diag.uniroma1.it
   website: https://phd.uniroma1.it/web/FRANCESCO-CHIARIELLO_nP1746480_EN.aspx
   linkedin:
@@ -18,21 +18,12 @@
 
 - name: Roberto Cipollone
   photo: roberto.jpg
-  info: PhD Student, 2nd year
+  info: PhD Student, 3rd year
   email: cipollone.1528014@studenti.uniroma1.it
   website:
   linkedin:
   github: https://github.com/cipollone
   scholar:
-
-- name: Marco Favorito
-  photo: marco.jpg
-  info: PhD Student, 4th year
-  email: favorito@diag.uniroma1.it
-  website: https://marcofavorito.me/
-  linkedin: https://www.linkedin.com/in/marcofavorito/
-  github: https://github.com/marcofavorito
-  scholar: https://scholar.google.com/citations?hl=en&user=tJhhDGEAAAAJ
 
 - name: Francesco Fuggitti
   photo: francesco-f.jpg
@@ -54,16 +45,26 @@
 
 - name: Gabriel Paludo Licks
   photo: gabriel.jpg
-  info: PhD Student, 2nd year
+  info: PhD Student, 3rd year
   email: licks@diag.uniroma1.it
   website:
   linkedin:
   github: https://github.com/gabrielplicks
   scholar: https://scholar.google.com.br/citations?user=zUjLlV0AAAAJ&hl=en
 
+- name: Gianmarco Parretti
+  photo: gianmarco.jpg
+  info: PhD Student, 1st year
+  email: parretti@diag.uniroma1.it
+  website: https://phd.uniroma1.it/web/GIANMARCO-PARRETTI_nP1650564_EN.aspx
+  linkedin: https://www.linkedin.com/in/gianmarco-parretti/
+  github: https://github.com/GianmarcoDIAG
+  scholar:
+
+
 - name: Luciana Silo
   photo: luciana.jpg
-  info: PhD Student, 1st year
+  info: PhD Student, 2nd year
   email: silo@diag.uniroma1.it
   website: https://luusi.github.io
   linkedin:
@@ -72,7 +73,7 @@
 
 - name: Alessandro Trapasso
   photo: alessandro.jpg
-  info: PhD Student, 1st year
+  info: PhD Student, 2nd year
   email: trapasso@diag.uniroma1.it
   website: https://alee08.github.io
   linkedin: https://www.linkedin.com/in/alessandro-trapasso
@@ -81,7 +82,7 @@
 
 - name: Elena Umili
   photo: elena.jpg
-  info: PhD Student, 3rd year
+  info: PhD Student, 4th year
   email: umili@diag.uniroma1.it
   website: https://phd.uniroma1.it/web/ELENA-UMILI_nP1491499_EN.aspx
   linkedin:
