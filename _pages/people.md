@@ -170,7 +170,7 @@ We are currently looking for new PhD students, Postdocs, and Master students to 
 </div>
 {% endif %}
 
-# Alumni
+# Past members
 
 <div class="row  mt-4">
 
