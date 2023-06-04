@@ -6,10 +6,6 @@ sitemap: false
 permalink: /people
 ---
 
-<div class="alert alert-danger">
-We are currently looking for new PhD students, Postdocs, and Master students to join the team. <a href="{{ site.url }}{{ site.baseurl }}/hiring" class="alert-link">See Hiring!</a>
-</div>
-
 # Faculty
 {% assign number_printed = 0 %}
 {% for member in site.data.faculty %}
