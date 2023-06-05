@@ -1,25 +1,16 @@
 - name: Antonio Di Stasio
   photo: antonio.jpg
-  info: Postdoctoral Researcher
-  email: distasio@diag.uniroma1.it
+  info: Senior Research Associate
+  email: antonio.distasio@cs.ox.ac.uk
   website: https://antoniodistasio.github.io/
   linkedin:
   github: https://github.com/antoniodistasio
   scholar: https://scholar.google.com/citations?user=qnH_-7AAAAAJ&hl=en&oi=ao
 
-- name: Alessandro Ronca
-  photo: alessandro.jpg
-  info: Postdoctoral Researcher
-  email: ronca@diag.uniroma1.it
-  website: https://ronca.me/
-  linkedin:
-  github: https://github.com/RncLsn
-  scholar: https://scholar.google.com/citations?hl=en&user=0NwK2-IAAAAJ
-
 - name: Shufang Zhu
   photo: shufang.jpg
-  info: Postdoctoral Researcher
-  email: zhu@diag.uniroma1.it
+  info: Senior Research Associate
+  email: shufang.zhu@cs.ox.ac.uk
   website: https://shufang-zhu.github.io/
   linkedin:
   github: https://github.com/saffiepig

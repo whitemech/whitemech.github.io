@@ -1,3 +1,10 @@
+- name: Francesco Chiariello
+  affiliation: University of Naples "Federico II"
+  position: Postdoctoral Researcher
+  info: Alumni
+  email: francesco.chiariello@unina.it
+  website: https://www.francescochiariello.me/
+
 - name: Marco Favorito
   affiliation: Bank of Italy
   position: Researcher
@@ -12,6 +19,13 @@
   email: ramon.fragapereira@manchester.ac.uk
   website: https://www.ramonfpereira.com/
 
+- name: Manuel Namici
+  affiliation:
+  position:
+  info: Alumni
+  email: namici@diag.uniroma1.it
+  website:
+
 - name: Giuseppe Perelli
   affiliation: Sapienza University of Rome
   position: Assistant Professor (RTD-B)
@@ -19,3 +33,16 @@
   email: perelli@di.uniroma1.it
   website: https://giuseppeperelli.github.io/
 
+- name: Alessandro Ronca
+  affiliation: Oxford University
+  position: Senior Research Associate
+  info: Alumni
+  email: alessandro.ronca@cs.ox.ac.uk
+  website: https://ronca.me/
+
+- name: Elena Umili
+  affiliation: Sapienza University
+  position: Postdoctoral Researcher
+  info: Alumni
+  email: umili@diag.uniroma1.it
+  website:
