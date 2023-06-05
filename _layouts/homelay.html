@@ -2,8 +2,12 @@
 layout: default
 ---
 
-<div id="homeid" class="container">
-  <div class="jumbotron">
+    <div id="homeid" class="container">
+    <div class="alert alert-warning" role="alert">
+        As of November 2022, the WhiteMech project has Oxford University as a new main institution!
+    </div>
+
+    <div class="jumbotron">
       <div class="header">
           <img src="{{ site.url }}{{ site.baseurl }}/static/images/logopic/logo-whitemech.svg" style="float: left; width: 20%">
           <h1 class="display-4" style="position: relative"><b>ERC AG WhiteMech</b></h1>
@@ -21,5 +25,5 @@ layout: default
           {{ content }}
       </p>
       <a class="btn btn-custom btn-lg" href="{{ site.url }}{{ site.baseurl }}/research" role="button">Read more</a>
-  </div>
+    </div>
 </div>
