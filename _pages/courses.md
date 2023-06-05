@@ -6,6 +6,159 @@ sitemap: false
 permalink: /courses
 ---
 
+# Game-theoretic Approach to Planning and Synthesis (ESSAI Summer School)
+
+<p align="center" style="font-size:200%" > 24 -- 28 July 2023 </p>
+
+- **Instructors**: [Antonio Di Stasio](https://antoniodistasio.github.io) (Oxford University, UK), [Giuseppe Perelli](https://giuseppeperelli.github.io/) (Sapienza University, Italy), [Shufang Zhu](https://shufang-zhu.github.io/) (Oxford University, UK)
+- **Host Institutions**: ESSAI Summer School, Ljubljana, Slovenia
+- **Level**: Graduate.
+- **Course Type**: Lecture series.
+- **Registration**: See the [ESSAI website](https://essai.si/). 
+- **Class delivery modality**: In Presence.
+- **Language**: English
+- **Website**: [https://essai.si/game-theoretic-approach-to-planning-and-synthesis/](https://essai.si/game-theoretic-approach-to-planning-and-synthesis/)
+
+-----
+
+### Registration
+Please refer to the ESSAI Summer school website [here](https://essai.si/).
+
+
+### Abstract
+
+This course introduces AI planning and program synthesis for tasks (goals) expressed over finite traces instead of states. Specifically, borrowing from Formal Methods, we will consider tasks and environment specifications expressed in LTL and its finite trace variant LTLf. We will review the main results and algorithmic techniques to handle planning in nondeterministic domains. Then, we will draw connections with verification, and reactive synthesis, together with their game-theoretic solution techniques. The main catch is that working with these logics can be based on devising suitable 2-players games and finding strategies, i.e., plans, to win them. Specifically, we will cover the following topics: Planning in nondeterministic domain, Temporal Logics, LTL, LTLf, Game-theoretic Techniques, Safety Games, Reachability Games, Games for LTL/LTLf objectives, and Reactive Synthesis. This course is partially based on the work carried out in ERC Advanced Grant WhiteMech and EU ICT-48 TAILOR.
+
+<br>
+
+-----
+
+<br>
+
+# Game-theoretic Approach to Planning and Synthesis 2023
+
+<p align="center" style="font-size:200%" > April 13 -- May 8 2023 </p>
+
+- **Instructors**: [Giuseppe De Giacomo](https://www.dis.uniroma1.it/degiacom/)
+- **Host Institutions**: Sapienza University & ICT-48 TAILOR
+- **Level**: Graduate & Postgraduate.
+- **Course duration**: 20 hours.
+- **Course Type**: Lecture series.
+- **Registration**: Free but required (Please register [here](https://docs.google.com/forms/d/e/1FAIpQLSeLpQXHCNti_cpbOIsZwQbm0AAUalSgZ2k1lNBiIcFBz1YILw/viewform))
+- **Class delivery modality**: Blended (Online and In Presence).
+- **In presence location**: Rooms A2 and A4, Department of Computer, Automation, and Management Engineering, Sapienza University of Rome
+- **Schedule**: Mondays from 13:00 to 15:00 CEST (Room A4) and Thursdays from 13:00 to 17:00 CEST (Room A2)
+- **Language**: English
+- **Website**: [https://sites.google.com/diag.uniroma1.it/game-based-planning-synthesis](https://sites.google.com/diag.uniroma1.it/game-based-planning-synthesis)
+
+-----
+
+### Registration
+All the students interested in attending the course are invited to register at the link [here](https://docs.google.com/forms/d/e/1FAIpQLSeLpQXHCNti_cpbOIsZwQbm0AAUalSgZ2k1lNBiIcFBz1YILw/viewform).
+
+-----
+
+### Lecture recordings and slides
+
+- Lecture 1 -- 4:
+  [Video](https://uniroma1.zoom.us/rec/share/kPqT0BaAmye9ILWU9UOZ0zbFBj1_F1oNjs6jM6lD6nOqnhbPJnslsp4_tl-15FQq.cJXd9SK62uGgexdP)
+
+- Lecture 5 -- 6
+  [Video](https://uniroma1.zoom.us/rec/share/3nXtfA4-WUdYTPGzS17eUXkDFSju7B5H3-JV2l4CGa2Aa_EFhuWUakADIxaDsWY_.Ix1eIZUsGTJZxZgv)
+
+- Lecture 7 -- 10
+  [Video](https://uniroma1.zoom.us/rec/share/gbH2ix33e9vnyflGW5lgmu3CfCC9KF2ou1dOFi6A4BmR4W3ZnyrwHV48J7Q66q_Z.i2Pv_fjl4Y1xJb0b)
+
+- Lecture 11 -- 14
+  [Video](https://uniroma1.zoom.us/rec/share/oHt1m2qKSuaZlKvsDvTlHxx-pr1yLS9FSBosIMKtIoFSLn0VTmNGJW_-vQZk-SdP.CeqBM0WAmfGSpzp5)
+
+- Lecture 15 -- 18
+  [Video](https://uniroma1.zoom.us/rec/share/yJzUei_cCbLUI3-Mwxm0A4Qt5ohdoFp_2Z3U8vbGxOleSMSME5HJ31ZAR7ejybi8._MVUKmYxbk2DD66X) 
+
+- Lecture 19 -- 20
+  [Video](https://uniroma1.zoom.us/rec/share/5E4ZOBNd124EK6wlXs_XdG0fqyeti7dn_TbjDR7NLsYfDE1-8hxryvl4smx0oH2h.Qx0ARcSWrGRSjxrH)
+
+-----
+
+### Abstract
+
+This course introduces AI planning and program synthesis for tasks (goals) expressed over finite traces instead of states. Specifically, borrowing from Formal Methods, we will consider tasks and environment specifications expressed in LTL and in particular its finite trace variant LTLf. We will review the main results and algorithmic techniques to handle planning in nondeterministic domains. Then, we will draw connections with verification, and reactive synthesis, together with their game-theoretic solution techniques. The main catch is that working with these logics can be based on devising suitable 2-player games and finding strategies, i.e., plans, to win them. Specifically, we will cover the following topics: Planning in Nondeterministic Domains, Temporal Logics, LTL, LTLf, Game-theoretic Techniques, Safety Games, Reachability Games, Games for LTL/LTLf objectives, and Reactive Synthesis. This course is partially based on the work carried out in ERC Advanced Grant WhiteMech and EU ICT-48 TAILOR.
+
+### Course content
+
+**Introduction**. Motivations and aims of the course
+
+
+**Reasoning about Actions.** SitCalc, Reiter's Basic Action Theories, Reasoning by regression in SitCalc, Finite Transitions Systems induced by Propositional Basic Action Theories.
+
+
+**Planning.** Planning in deterministic domains. Transition System induced by a deterministic planning domain. Planning as search. Planning as fixpoint computation over a transition system. Planning in nondeterministic domains. Transition System, or game arena, induced by a nondeterministic planning domain. Planning as fixpoint computation over a game arena.
+
+**Transition system and fixpoints.** Reactive/interactive programs (finite state), transition systems, reachability, bisimulation. Fixpoints, Knaster-Tarski theorem on least and greatest fixpoint, approximates for least and greatest fixpoint.
+
+
+**Games on Graphs.** Transition systems as game arenas. Reachability, Safety, Buchi Objectives.
+
+
+**Linear Temporal Logics.** Linear Temporal Logic on infinite traces from Formal Methods. Linear Temporal Logics on finite traces. LTLf to Automata. Reasoning in LTLf, verification in LTLf.
+
+**Program synthesis.** Automated program synthesis, synthesis from specifications in Linear Temporal Logic on finite traces, game-theoretic view, arena and objective, adversarial reachability. Synthesis under environment specifications. Planning for LTLf goals in nondeterministic domains as synthesis under environment specifications.
+
+**Reasoning and learning.** Merging Reasoning on Actions and Reinforcement Learning. RL for non-Morkovin rewards expressed in LTLf. Restraining Bolts and Sheilds for RL.
+
+<br>
+
+-----
+
+<br>
+
+# Foundations of Self-Programming Agents: 2022-2023
+
+<p align="center" style="font-size:200%" > Jan 15 2023 -- March 11 2023 </p>
+
+- **Instructors**: [Giuseppe De Giacomo](https://www.cs.ox.ac.uk/people/giuseppe.degiacomo/), [Antonio Di Stasio](https://antoniodistasio.github.io)
+- **Host Institutions**: Oxford University, UK
+- **Level**: Graduate.
+- **Course duration**: 20 lectures.
+- **Course Type**: Lecture series.
+- **Class delivery modality**: In Presence.
+- **In presence location**: Department of Computer Science, Oxford University, UK
+- **Language**: English
+
+-----
+
+### Abstract
+
+This course studies the foundations of how to build autonomous agents that have the ability to self-programming their behavior to accomplish desired tasks in their environment. This is related to Reasoning about Actions and Planning in AI and to Program Synthesis in Formal Methods but focuses on tasks (goals) expressed over finite traces. Specifically, borrowing from Formal Methods the course will consider tasks and environment specifications expressed in LTL, as well as its finite trace variant LTLf. It will review the main results and algorithmic techniques to handle planning in nondeterministic domains. Then, it will draw connections with verification, and reactive synthesis, together with their game-theoretic solution techniques. The main catch is that working with these logics can be based on devising suitable 2-player games and finding strategies, i.e., plans, to win them. Specifically, we will cover the following topics: planning in nondeterministic domains, temporal logics, LTL, LTLf, game-theoretic techniques, safety games, reachability games, games for LTLf objectives, LTLf reactive synthesis. Also, connections with decision processes and reinforcement learning will be considered.
+
+### Course content
+
+<b>Part 1: Exploiting models of the environment to reason on consequences of actions (3 lectures)</b>
+In this part of the course, we study classical Reasoning about Actions developed in Knowledge Representation. The notion of acting in an environment, how classically the environment is specified, how actions and their effects are modeled, how to reason to understand if a certain course of action can indeed be executed and what effects it will bring about.
+
+<b>Part 2: Planning courses of action in the environment (3 lectures + 1 class)</b>
+In this part of the course, we study advanced forms of planning in AI, in particular, planning in so-called “nondeterministic domains”. We show how languages for expressing planning domains are based on the insight gained by studying Reasoning about Actions. We consider what kind of solution concepts are needed when planning in nondeterministic domains, and how these are related to strategic reasoning in 2-player games.
+
+<b>Part 3: LTL and LTLf as a specification language (2 lectures)</b>
+In this part of the course, we review Linear Time Logic on infinite and finite traces used in Formal Methods for specifying dynamic systems. We intend to use it as a specification language for specifying complex tasks as well as environment properties. We review Safety Properties, Guarantee Properties, and forms of Fairness and Stability, including GR(1). We also review connections to automata and their use in model checking.
+
+<b>Part 4: LTL and LTLf Reactive Synthesis (4 lectures + 1 class)</b>
+In this part of the course, we introduce synthesis from LTL and LTLf specifications. The idea is that, given a logical specification, we can automatically synthesize a program that is guaranteed to fulfill the specification. We focus specifically on “reactive synthesis”, i.e., synthesize programs for interactive/reactive ongoing computations (protocols, operating systems, controllers, robots, etc.). This kind of synthesis is deeply related to planning in nondeterministic environments. We consider mainly synthesis for LTLf specifications, but we will also study synthesis for some restricted forms of LTL specifications, such as safety properties, and limited forms of guarantee, reactivity, fairness, including GR(1), and stability.
+
+<b>Part 5: LTL and LTLf Reactive Synthesis under Environment Specifications (4 lectures + 1 class)</b>
+In this part of the course, we introduce Reactive Synthesis under Environment Specifications. That is, we take advantage of the knowledge about the environment's behavior in achieving the agent tasks. We consider how to obtain the game arena out of the LTL and LTLf specifications of both the agent task and the environment behaviors, and how to solve safety games, reachability games, games for LTLf objectives, and for objectives expressed in fragments of LTL. We also discuss how winning regions of such arenas are related to the notion of “being able” to achieve desired properties (without necessarily committing to a specific strategy to do so). We focus on agent tasks that eventually terminate and hence are specified in LTLf. While for the environment we focus on Safety specifications and limited forms of guarantee, reactivity, fairness, and stability.
+
+<b>Part 6: LTL and LTLf Reactive Synthesis Techniques (2 lectures + 1 class)</b>
+In this part of the course, we further examine synthesis algorithms based on 2-player game-theoretic techniques. Specifically, we consider both symbolic algorithms and algorithms that explore the search space on-the-fly while synthesizing the program.
+
+<b>Part 7: Learning environment behaviors and performing tasks (2 lectures + 1 class)</b>
+In this last part of the course, we make connections with Decision Processes and Reinforcement Learning. The point is that in some cases the agent has a simulator of the environment instead of a formal specification, so it needs to learn its strategies to achieve its task in the environment. Sometimes even the task is only implicitly specified through rewards. The key issue is that the kind of properties we are often interested in (the ones that we specify in LTL or LTLf ) are non-Markovian, and hence we need to introduce non-Markovian characteristics in decision processes and reinforcement learning.
+
+<br>
+
+-----
+
+<br>
 
 
 # Non-Markov Decision Processes and Reinforcement Learning
@@ -159,7 +312,7 @@ We present non-Markov decision processes, where rewards and dynamics can depend 
 <br>
 
 
-# Game-Theoretic Approach to Planning and Synthesis
+# Game-Theoretic Approach to Planning and Synthesis 2022
 
 <p align="center" style="font-size:200%" > 4-8 July 2022 </p>
 
@@ -305,4 +458,4 @@ The environment represented as an LTL specification. The synthesis under environ
 [<img src="{{ site.url }}{{ site.baseurl }}/static/images/logopic/logo-whitemech.svg" style="float:left" width="25%" alt="WhiteMech Logo">](https://whitemech.github.io)
 [<img src="{{ site.url }}{{ site.baseurl }}/static/images/logopic/logo-AIDA.png" style="float:right" width="25%" alt="AIDA Logo">](https://tailor-network.eu/aida/)
 [<img src="{{ site.url }}{{ site.baseurl }}/static/images/logopic/TAILOR-logo.jpg" style="float:right" width="25%" alt="TAILOR Logo">](https://tailor-network.eu)
-[<img src="{{ site.url }}{{ site.baseurl }}/static/images/logopic/logo-sapienza.svg" style="float:left" width="25%" alt="WhiteMech Logo">](https://www.uniroma1.it/en/pagina-strutturale/home)
+[<img src="{{ site.url }}{{ site.baseurl }}/static/images/logopic/logo-sapienza.svg" style="float:left" width="25%" alt="Sapienza Logo">](https://www.uniroma1.it/en/pagina-strutturale/home)
