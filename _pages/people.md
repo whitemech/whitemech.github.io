@@ -6,10 +6,6 @@ sitemap: false
 permalink: /people
 ---
 
-<div class="alert alert-danger">
-We are currently looking for new PhD students, Postdocs, and Master students to join the team. <a href="{{ site.url }}{{ site.baseurl }}/hiring" class="alert-link">See Hiring!</a>
-</div>
-
 # Faculty
 {% assign number_printed = 0 %}
 {% for member in site.data.faculty %}
@@ -170,24 +166,6 @@ We are currently looking for new PhD students, Postdocs, and Master students to 
 </div>
 {% endif %}
 
-# Past members
-
-<div class="row  mt-4">
-
-{% for member in site.data.alumni %}
-{::nomarkdown}
-<ul>
-    <li>
-        <a class="h5" href="{% if member.website %}{{ member.website }}{% endif %}" >{{ member.name }}</a>, now {{ member.position }} at {{ member.affiliation }} ({{ member.email }})
-    </li>
-</ul>
-{:/}
-
-{% endfor %}
-
-</div>
-
-
 # Administration
 {% assign number_printed = 0 %}
 {% for member in site.data.admin_members %}
@@ -198,7 +176,7 @@ We are currently looking for new PhD students, Postdocs, and Master students to 
 <div class="row mt-4">
 {% endif %}
 
-{::nomarkdown} 
+{::nomarkdown}
 <div class="card shadow mb-3 ml-3" style="width: 545px;">
 <div class="row">
 <div class="col-md-4">
@@ -243,20 +221,37 @@ We are currently looking for new PhD students, Postdocs, and Master students to 
 </div>
 {% endif %}
 
+# Past members
+{::nomarkdown}
+<div class="row  mt-4">
+
+<ul>
+{% for member in site.data.alumni %}
+    <li>
+        <a class="h5" href="{% if member.website %}{{ member.website }}{% endif %}" >{{ member.name }}</a>, 
+{% if member.position %}now {{ member.position }} at {{ member.affiliation }} ({{ member.email }})
+{% else %}{{ member.email }}{% endif %}
+    </li>
+<br>
+{% endfor %}
+</ul>
+
+</div>
+{:/}  
+
 # Visiting Scholars
 
 <div class="row  mt-4">
 
-{% for member in site.data.visitors %}
 {::nomarkdown}
 <ul>
+{% for member in site.data.visitors %}
     <li>
         <a class="h5" href="{% if member.website %}{{ member.website }}{% endif %}" >{{ member.name }}</a>, {{ member.position }} at the {{ member.affiliation }} ({{ member.stay }})
     </li>
-</ul>
 <br>
-{:/}  
-
 {% endfor %}
+</ul>
+{:/}
 
 </div>

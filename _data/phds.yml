@@ -3,23 +3,14 @@
   info: PhD Student, 3rd year
   email: brunori@diag.uniroma1.it
   website:
-  linkedin:
+  linkedin: https://it.linkedin.com/in/damiano-brunori-a31936205/en
   github: https://github.com/DamianoBrunori
-  scholar:
-
-- name: Francesco Chiariello
-  photo: francesco-c.jpg
-  info: PhD Student, 4th year
-  email: chiariello@diag.uniroma1.it
-  website: https://phd.uniroma1.it/web/FRANCESCO-CHIARIELLO_nP1746480_EN.aspx
-  linkedin:
-  github: https://github.com/fracchiariello 
-  scholar:
+  scholar: https://scholar.google.com/citations?user=c_IMsg8AAAAJ&hl=it
 
 - name: Roberto Cipollone
   photo: roberto.jpg
   info: PhD Student, 3rd year
-  email: cipollone.1528014@studenti.uniroma1.it
+  email: cipollone@diag.uniroma1.it
   website:
   linkedin:
   github: https://github.com/cipollone
@@ -27,21 +18,12 @@
 
 - name: Francesco Fuggitti
   photo: francesco-f.jpg
-  info: PhD Student, 4th year
+  info: PhD Student, 5th year
   email: fuggitti@diag.uniroma1.it
   website: https://francescofuggitti.github.io/
   linkedin: https://www.linkedin.com/in/francescofuggitti/
   github: https://github.com/francescofuggitti
   scholar: https://scholar.google.com/citations?hl=en&user=UimMVfAAAAAJ
-
-- name: Manuel Namici
-  photo: manuel.jpg
-  info: PhD Student, 4th year
-  email: namici@diag.uniroma1.it
-  website: https://phd.uniroma1.it/web/NAMICI-MANUEL_nP1211691_EN.aspx
-  linkedin:
-  github: https://github.com/mnamici
-  scholar:
 
 - name: Gabriel Paludo Licks
   photo: gabriel.jpg
@@ -61,7 +43,6 @@
   github: https://github.com/GianmarcoDIAG
   scholar:
 
-
 - name: Luciana Silo
   photo: luciana.jpg
   info: PhD Student, 2nd year
@@ -79,12 +60,3 @@
   linkedin: https://www.linkedin.com/in/alessandro-trapasso
   github: https://github.com/Alee08
   scholar:
-
-- name: Elena Umili
-  photo: elena.jpg
-  info: PhD Student, 4th year
-  email: umili@diag.uniroma1.it
-  website: https://phd.uniroma1.it/web/ELENA-UMILI_nP1491499_EN.aspx
-  linkedin:
-  github: https://github.com/Elena-Umili
-  scholar: https://scholar.google.it/citations?user=W1KV32kAAAAJ&hl=en
