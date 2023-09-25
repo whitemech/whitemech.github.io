@@ -16,15 +16,6 @@
   github: https://github.com/cipollone
   scholar:
 
-- name: Francesco Fuggitti
-  photo: francesco-f.jpg
-  info: PhD Student, 5th year
-  email: fuggitti@diag.uniroma1.it
-  website: https://francescofuggitti.github.io/
-  linkedin: https://www.linkedin.com/in/francescofuggitti/
-  github: https://github.com/francescofuggitti
-  scholar: https://scholar.google.com/citations?hl=en&user=UimMVfAAAAAJ
-
 - name: Gabriel Paludo Licks
   photo: gabriel.jpg
   info: PhD Student, 3rd year
@@ -36,7 +27,7 @@
 
 - name: Gianmarco Parretti
   photo: gianmarco.jpg
-  info: PhD Student, 1st year
+  info: PhD Student, 2nd year
   email: parretti@diag.uniroma1.it
   website: https://phd.uniroma1.it/web/GIANMARCO-PARRETTI_nP1650564_EN.aspx
   linkedin: https://www.linkedin.com/in/gianmarco-parretti/
@@ -45,7 +36,7 @@
 
 - name: Luciana Silo
   photo: luciana.jpg
-  info: PhD Student, 2nd year
+  info: PhD Student, 3rd year
   email: silo@diag.uniroma1.it
   website: https://luusi.github.io
   linkedin:
@@ -54,7 +45,7 @@
 
 - name: Alessandro Trapasso
   photo: alessandro.jpg
-  info: PhD Student, 2nd year
+  info: PhD Student, 3rd year
   email: trapasso@diag.uniroma1.it
   website: https://alee08.github.io
   linkedin: https://www.linkedin.com/in/alessandro-trapasso
