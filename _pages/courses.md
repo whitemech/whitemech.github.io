@@ -6,6 +6,31 @@ sitemap: false
 permalink: /courses
 ---
 
+# Hybrid Neurosymbolic Techniques for Non-Markovian Reinforcement Learning
+
+<p align="center" style="font-size:200%" > 4 -- 14 March 2025 </p>
+
+- **Instructors**: [Elena Umili](https://sites.google.com/view/elenaumili/) (Sapienza University, Italy), [Fabio Patrizi](http://www.diag.uniroma1.it/patrizi/) (Sapienza University, Italy), [Roberto Capobianco](https://robertocapobianco.com/) (Sony AI, Sapienza University, Italy), [Giuseppe De Giacomo](https://www.dis.uniroma1.it/degiacom/), (Oxford University, UK), [Luca Iocchi](https://sites.google.com/a/dis.uniroma1.it/iocchi/home) (Sapienza University, Italy)
+- **Guest Instructors**: [Gabriel Paludo Licks](https://www.diag.uniroma1.it/en/users/gabriel_paludo-licks) (Sapienza University, Italy), [Emanuele Macronato](https://phd-ai-society.di.unipi.it/students/emanuele-marconato/) (Università di Pisa, Univeristà degli Studi di Trento, Italy), [Gregory Hyde](https://scholar.google.com/citations?user=qzORlxYAAAAJ&hl=en) (Dartmouth College, US)
+- **Lecture modality**: Hybrid (all the lectures will be streamed online)
+- **Prerequisites**: No prerequisite is required for this course.
+- **Evaluation**: PhD students are required to develop a small-scale project based on the course topics and discuss the outcomes (whether positive or negative). Students may propose their own project ideas inspired by their research domains or choose from topics assigned by the instructors. Projects can be developed individually or in groups.
+- **Google Classroom**: [https://classroom.google.com/c/NzQ0NTQyMDI3MDc4?cjc=nwb3n2e](https://classroom.google.com/c/NzQ0NTQyMDI3MDc4?cjc=nwb3n2e)
+- **Website**: [https://sites.google.com/diag.uniroma1.it/nesy-for-non-markovian-rl/home](https://sites.google.com/diag.uniroma1.it/nesy-for-non-markovian-rl/home)
+- **Contact email**: [Elena Umili](mailto:umili@diag.uniroma1.it)
+
+-----
+
+### Abstract
+
+In this course, we will explore both classic logic-based techniques and more recent neural network (NN)-based methods, examining how they can be combined to enhance the capabilities of intelligent agents. Our focus will be on applying these approaches to non-Markovian Reinforcement Learning (RL). In this context, Linear Temporal Logic (LTL) has proven to be a powerful tool for specifying tasks and environments that do not conform to the Markovian property, addressing the expressive limitations of Markov Decision Processes (MDPs). However, solving such environments remains challenging, particularly when observations are non-symbolic—such as images, continuous sensor readings, etc—or when there is incomplete or missing prior knowledge about the task. In this course, we will review recent advancements in the field, with a special emphasis on works that integrate logic and neural networks. Topics covered will include Deep RL, temporal RL, Restraining Bolts and Reward Machines, deep learning for sequential data, automata learning, Neurosymbolic AI, Neurosymbolic Reward Machines, Symbol Grounding, transfer learning across LTL tasks, LTL and natural language, integrating LTL knowledge into generative NNs, and more.
+
+<br>
+
+-----
+
+<br>
+
 # Game-theoretic Approach to Planning and Synthesis (ESSAI Summer School)
 
 <p align="center" style="font-size:200%" > 24 -- 28 July 2023 </p>
